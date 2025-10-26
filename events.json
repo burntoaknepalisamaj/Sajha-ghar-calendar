@@ -19,9 +19,10 @@
     "startTime": "09:30",
     "endTime": "12:15",
     "description": "This is test data",
-    "color": "#F44336",
-    "colorName": "Red",
+    "color": "#009688",
+    "colorName": "Teal",
     "created": "2025-10-26T19:02:10.581Z",
-    "recurring": false
+    "recurring": false,
+    "updated": "2025-10-26T19:58:38.945Z"
   }
 ]

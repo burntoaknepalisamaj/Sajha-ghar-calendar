@@ -1042,13 +1042,14 @@
     "date": "2026-01-04",
     "title": "Nepali Calss",
     "startTime": "09:30",
-    "endTime": "13:00",
+    "endTime": "12:15",
     "description": "NLCC - Nepali Class",
     "color": "#F44336",
     "colorName": "Red",
     "created": "2025-10-26T18:36:32.134Z",
     "recurring": true,
-    "originalEventId": "event_1761503792134_xsk247mrl"
+    "originalEventId": "event_1761503792134_xsk247mrl",
+    "updated": "2025-10-26T18:44:13.895Z"
   },
   {
     "id": "event_1761503792134_xsk247mrl-2",

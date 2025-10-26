@@ -1,5 +1,18 @@
 [
   {
+    "id": "event_1761503144021_eid904y9s-1",
+    "date": "2026-01-02",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "BONC - YOGA",
+    "color": "#E91E63",
+    "colorName": "Pink",
+    "created": "2025-10-26T18:25:44.021Z",
+    "recurring": true,
+    "originalEventId": "event_1761503144021_eid904y9s"
+  },
+  {
     "id": "event_1761503061062_wyqip1uy2-1",
     "date": "2026-01-04",
     "title": "Nepali Class",
@@ -11,6 +24,19 @@
     "created": "2025-10-26T18:24:21.062Z",
     "recurring": true,
     "originalEventId": "event_1761503061062_wyqip1uy2"
+  },
+  {
+    "id": "event_1761503144021_eid904y9s-2",
+    "date": "2026-01-09",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "BONC - YOGA",
+    "color": "#E91E63",
+    "colorName": "Pink",
+    "created": "2025-10-26T18:25:44.021Z",
+    "recurring": true,
+    "originalEventId": "event_1761503144021_eid904y9s"
   },
   {
     "id": "event_1761503061062_wyqip1uy2-2",
@@ -26,6 +52,19 @@
     "originalEventId": "event_1761503061062_wyqip1uy2"
   },
   {
+    "id": "event_1761503144021_eid904y9s-3",
+    "date": "2026-01-16",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "BONC - YOGA",
+    "color": "#E91E63",
+    "colorName": "Pink",
+    "created": "2025-10-26T18:25:44.021Z",
+    "recurring": true,
+    "originalEventId": "event_1761503144021_eid904y9s"
+  },
+  {
     "id": "event_1761503061062_wyqip1uy2-3",
     "date": "2026-01-18",
     "title": "Nepali Class",
@@ -39,6 +78,19 @@
     "originalEventId": "event_1761503061062_wyqip1uy2"
   },
   {
+    "id": "event_1761503144021_eid904y9s-4",
+    "date": "2026-01-23",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "BONC - YOGA",
+    "color": "#E91E63",
+    "colorName": "Pink",
+    "created": "2025-10-26T18:25:44.021Z",
+    "recurring": true,
+    "originalEventId": "event_1761503144021_eid904y9s"
+  },
+  {
     "id": "event_1761503061062_wyqip1uy2-4",
     "date": "2026-01-25",
     "title": "Nepali Class",
@@ -50,5 +102,18 @@
     "created": "2025-10-26T18:24:21.062Z",
     "recurring": true,
     "originalEventId": "event_1761503061062_wyqip1uy2"
+  },
+  {
+    "id": "event_1761503144021_eid904y9s-5",
+    "date": "2026-01-30",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "BONC - YOGA",
+    "color": "#E91E63",
+    "colorName": "Pink",
+    "created": "2025-10-26T18:25:44.021Z",
+    "recurring": true,
+    "originalEventId": "event_1761503144021_eid904y9s"
   }
 ]

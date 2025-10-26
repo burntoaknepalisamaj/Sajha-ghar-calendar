@@ -6,11 +6,12 @@
     "startTime": "09:30",
     "endTime": "13:00",
     "description": "Nepali Language and Culture Centre Regular Nepali Class",
-    "color": "#F44336",
-    "colorName": "Red",
+    "color": "#795548",
+    "colorName": "Brown",
     "created": "2025-10-26T13:09:48.480Z",
     "recurring": true,
-    "originalEventId": "event_1761484188480_utxvthx28"
+    "originalEventId": "event_1761484188480_utxvthx28",
+    "updated": "2025-10-26T19:59:18.709Z"
   },
   {
     "id": "event_1761505330581_h2t26ca9n",

@@ -11,5 +11,17 @@
     "created": "2025-10-26T13:09:48.480Z",
     "recurring": true,
     "originalEventId": "event_1761484188480_utxvthx28"
+  },
+  {
+    "id": "event_1761505330581_h2t26ca9n",
+    "date": "2025-11-02",
+    "title": "Test Data",
+    "startTime": "09:30",
+    "endTime": "12:15",
+    "description": "This is test data",
+    "color": "#F44336",
+    "colorName": "Red",
+    "created": "2025-10-26T19:02:10.581Z",
+    "recurring": false
   }
 ]

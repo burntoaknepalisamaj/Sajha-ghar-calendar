@@ -703,19 +703,6 @@
     "originalEventId": "event_1761600178668_6bejsu27m"
   },
   {
-    "id": "event_1761600582475_iip1jjpyv-7",
-    "date": "2025-12-10",
-    "title": "Senior English Class",
-    "startTime": "10:30",
-    "endTime": "11:30",
-    "description": "Senior English Class",
-    "color": "#FFEB3B",
-    "colorName": "Yellow",
-    "created": "2025-10-27T21:29:42.475Z",
-    "recurring": true,
-    "originalEventId": "event_1761600582475_iip1jjpyv"
-  },
-  {
     "id": "event_1761600219138_wao95g5tx-7",
     "date": "2025-12-12",
     "title": "Yoga",

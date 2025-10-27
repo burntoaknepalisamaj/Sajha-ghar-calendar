@@ -136,6 +136,19 @@
     "originalEventId": "event_1761600178668_6bejsu27m"
   },
   {
+    "id": "event_1761600452523_ogyikbdql-1",
+    "date": "2025-10-29",
+    "title": "Wonderful Wednesday",
+    "startTime": "11:30",
+    "endTime": "15:00",
+    "description": "A special session targeting loneliness",
+    "color": "#00BCD4",
+    "colorName": "Cyan",
+    "created": "2025-10-27T21:27:32.523Z",
+    "recurring": true,
+    "originalEventId": "event_1761600452523_ogyikbdql"
+  },
+  {
     "id": "event_1761600219138_wao95g5tx-1",
     "date": "2025-10-31",
     "title": "Yoga",
@@ -212,6 +225,19 @@
     "created": "2025-10-27T21:22:58.668Z",
     "recurring": true,
     "originalEventId": "event_1761600178668_6bejsu27m"
+  },
+  {
+    "id": "event_1761600452523_ogyikbdql-2",
+    "date": "2025-11-05",
+    "title": "Wonderful Wednesday",
+    "startTime": "11:30",
+    "endTime": "15:00",
+    "description": "A special session targeting loneliness",
+    "color": "#00BCD4",
+    "colorName": "Cyan",
+    "created": "2025-10-27T21:27:32.523Z",
+    "recurring": true,
+    "originalEventId": "event_1761600452523_ogyikbdql"
   },
   {
     "id": "event_1761600219138_wao95g5tx-2",
@@ -305,6 +331,19 @@
     "originalEventId": "event_1761600178668_6bejsu27m"
   },
   {
+    "id": "event_1761600452523_ogyikbdql-3",
+    "date": "2025-11-12",
+    "title": "Wonderful Wednesday",
+    "startTime": "11:30",
+    "endTime": "15:00",
+    "description": "A special session targeting loneliness",
+    "color": "#00BCD4",
+    "colorName": "Cyan",
+    "created": "2025-10-27T21:27:32.523Z",
+    "recurring": true,
+    "originalEventId": "event_1761600452523_ogyikbdql"
+  },
+  {
     "id": "event_1761600219138_wao95g5tx-3",
     "date": "2025-11-14",
     "title": "Yoga",
@@ -381,6 +420,19 @@
     "created": "2025-10-27T21:22:58.668Z",
     "recurring": true,
     "originalEventId": "event_1761600178668_6bejsu27m"
+  },
+  {
+    "id": "event_1761600452523_ogyikbdql-4",
+    "date": "2025-11-19",
+    "title": "Wonderful Wednesday",
+    "startTime": "11:30",
+    "endTime": "15:00",
+    "description": "A special session targeting loneliness",
+    "color": "#00BCD4",
+    "colorName": "Cyan",
+    "created": "2025-10-27T21:27:32.523Z",
+    "recurring": true,
+    "originalEventId": "event_1761600452523_ogyikbdql"
   },
   {
     "id": "event_1761600219138_wao95g5tx-4",
@@ -474,6 +526,19 @@
     "originalEventId": "event_1761600178668_6bejsu27m"
   },
   {
+    "id": "event_1761600452523_ogyikbdql-5",
+    "date": "2025-11-26",
+    "title": "Wonderful Wednesday",
+    "startTime": "11:30",
+    "endTime": "15:00",
+    "description": "A special session targeting loneliness",
+    "color": "#00BCD4",
+    "colorName": "Cyan",
+    "created": "2025-10-27T21:27:32.523Z",
+    "recurring": true,
+    "originalEventId": "event_1761600452523_ogyikbdql"
+  },
+  {
     "id": "event_1761600219138_wao95g5tx-5",
     "date": "2025-11-28",
     "title": "Yoga",
@@ -550,6 +615,19 @@
     "created": "2025-10-27T21:22:58.668Z",
     "recurring": true,
     "originalEventId": "event_1761600178668_6bejsu27m"
+  },
+  {
+    "id": "event_1761600452523_ogyikbdql-6",
+    "date": "2025-12-03",
+    "title": "Wonderful Wednesday",
+    "startTime": "11:30",
+    "endTime": "15:00",
+    "description": "A special session targeting loneliness",
+    "color": "#00BCD4",
+    "colorName": "Cyan",
+    "created": "2025-10-27T21:27:32.523Z",
+    "recurring": true,
+    "originalEventId": "event_1761600452523_ogyikbdql"
   },
   {
     "id": "event_1761600219138_wao95g5tx-6",
@@ -629,6 +707,19 @@
     "created": "2025-10-27T21:22:58.668Z",
     "recurring": true,
     "originalEventId": "event_1761600178668_6bejsu27m"
+  },
+  {
+    "id": "event_1761600452523_ogyikbdql-7",
+    "date": "2025-12-10",
+    "title": "Wonderful Wednesday",
+    "startTime": "11:30",
+    "endTime": "15:00",
+    "description": "A special session targeting loneliness",
+    "color": "#00BCD4",
+    "colorName": "Cyan",
+    "created": "2025-10-27T21:27:32.523Z",
+    "recurring": true,
+    "originalEventId": "event_1761600452523_ogyikbdql"
   },
   {
     "id": "event_1761600219138_wao95g5tx-7",
@@ -722,6 +813,19 @@
     "originalEventId": "event_1761600178668_6bejsu27m"
   },
   {
+    "id": "event_1761600452523_ogyikbdql-8",
+    "date": "2025-12-17",
+    "title": "Wonderful Wednesday",
+    "startTime": "11:30",
+    "endTime": "15:00",
+    "description": "A special session targeting loneliness",
+    "color": "#00BCD4",
+    "colorName": "Cyan",
+    "created": "2025-10-27T21:27:32.523Z",
+    "recurring": true,
+    "originalEventId": "event_1761600452523_ogyikbdql"
+  },
+  {
     "id": "event_1761600219138_wao95g5tx-8",
     "date": "2025-12-19",
     "title": "Yoga",
@@ -798,6 +902,19 @@
     "created": "2025-10-27T21:22:58.668Z",
     "recurring": true,
     "originalEventId": "event_1761600178668_6bejsu27m"
+  },
+  {
+    "id": "event_1761600452523_ogyikbdql-9",
+    "date": "2025-12-24",
+    "title": "Wonderful Wednesday",
+    "startTime": "11:30",
+    "endTime": "15:00",
+    "description": "A special session targeting loneliness",
+    "color": "#00BCD4",
+    "colorName": "Cyan",
+    "created": "2025-10-27T21:27:32.523Z",
+    "recurring": true,
+    "originalEventId": "event_1761600452523_ogyikbdql"
   },
   {
     "id": "event_1761600219138_wao95g5tx-9",
@@ -889,5 +1006,18 @@
     "created": "2025-10-27T21:22:58.668Z",
     "recurring": true,
     "originalEventId": "event_1761600178668_6bejsu27m"
+  },
+  {
+    "id": "event_1761600452523_ogyikbdql-10",
+    "date": "2025-12-31",
+    "title": "Wonderful Wednesday",
+    "startTime": "11:30",
+    "endTime": "15:00",
+    "description": "A special session targeting loneliness",
+    "color": "#00BCD4",
+    "colorName": "Cyan",
+    "created": "2025-10-27T21:27:32.523Z",
+    "recurring": true,
+    "originalEventId": "event_1761600452523_ogyikbdql"
   }
 ]

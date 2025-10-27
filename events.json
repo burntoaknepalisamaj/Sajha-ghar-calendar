@@ -214,6 +214,19 @@
     "originalEventId": "event_1761600325435_hwqj0h1gy"
   },
   {
+    "id": "event_1761600835569_kvov4dxbv-1",
+    "date": "2025-11-01",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#FFC107",
+    "colorName": "Amber",
+    "created": "2025-10-27T21:33:55.569Z",
+    "recurring": true,
+    "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
     "id": "event_1761575781925_uat4rikiz",
     "date": "2025-11-02",
     "title": "Nepali Class",
@@ -344,6 +357,19 @@
     "originalEventId": "event_1761600325435_hwqj0h1gy"
   },
   {
+    "id": "event_1761600835569_kvov4dxbv-2",
+    "date": "2025-11-08",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#FFC107",
+    "colorName": "Amber",
+    "created": "2025-10-27T21:33:55.569Z",
+    "recurring": true,
+    "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
     "id": "event_1761571572669_zx1x0n4pg-2",
     "date": "2025-11-09",
     "title": "Nepali Class ",
@@ -459,6 +485,19 @@
     "created": "2025-10-27T21:25:25.435Z",
     "recurring": true,
     "originalEventId": "event_1761600325435_hwqj0h1gy"
+  },
+  {
+    "id": "event_1761600835569_kvov4dxbv-3",
+    "date": "2025-11-15",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#FFC107",
+    "colorName": "Amber",
+    "created": "2025-10-27T21:33:55.569Z",
+    "recurring": true,
+    "originalEventId": "event_1761600835569_kvov4dxbv"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-3",
@@ -591,6 +630,19 @@
     "originalEventId": "event_1761600325435_hwqj0h1gy"
   },
   {
+    "id": "event_1761600835569_kvov4dxbv-4",
+    "date": "2025-11-22",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#FFC107",
+    "colorName": "Amber",
+    "created": "2025-10-27T21:33:55.569Z",
+    "recurring": true,
+    "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
     "id": "event_1761571572669_zx1x0n4pg-4",
     "date": "2025-11-23",
     "title": "Nepali Class ",
@@ -708,6 +760,19 @@
     "originalEventId": "event_1761600325435_hwqj0h1gy"
   },
   {
+    "id": "event_1761600835569_kvov4dxbv-5",
+    "date": "2025-11-29",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#FFC107",
+    "colorName": "Amber",
+    "created": "2025-10-27T21:33:55.569Z",
+    "recurring": true,
+    "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
     "id": "event_1761571572669_zx1x0n4pg-5",
     "date": "2025-11-30",
     "title": "Nepali Class ",
@@ -823,6 +888,19 @@
     "created": "2025-10-27T21:25:25.435Z",
     "recurring": true,
     "originalEventId": "event_1761600325435_hwqj0h1gy"
+  },
+  {
+    "id": "event_1761600835569_kvov4dxbv-6",
+    "date": "2025-12-06",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#FFC107",
+    "colorName": "Amber",
+    "created": "2025-10-27T21:33:55.569Z",
+    "recurring": true,
+    "originalEventId": "event_1761600835569_kvov4dxbv"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-6",
@@ -956,6 +1034,19 @@
     "originalEventId": "event_1761600325435_hwqj0h1gy"
   },
   {
+    "id": "event_1761600835569_kvov4dxbv-7",
+    "date": "2025-12-13",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#FFC107",
+    "colorName": "Amber",
+    "created": "2025-10-27T21:33:55.569Z",
+    "recurring": true,
+    "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
     "id": "event_1761571572669_zx1x0n4pg-7",
     "date": "2025-12-14",
     "title": "Nepali Class ",
@@ -1071,6 +1162,19 @@
     "created": "2025-10-27T21:25:25.435Z",
     "recurring": true,
     "originalEventId": "event_1761600325435_hwqj0h1gy"
+  },
+  {
+    "id": "event_1761600835569_kvov4dxbv-8",
+    "date": "2025-12-20",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#FFC107",
+    "colorName": "Amber",
+    "created": "2025-10-27T21:33:55.569Z",
+    "recurring": true,
+    "originalEventId": "event_1761600835569_kvov4dxbv"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-8",
@@ -1201,6 +1305,19 @@
     "created": "2025-10-27T21:25:25.435Z",
     "recurring": true,
     "originalEventId": "event_1761600325435_hwqj0h1gy"
+  },
+  {
+    "id": "event_1761600835569_kvov4dxbv-9",
+    "date": "2025-12-27",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#FFC107",
+    "colorName": "Amber",
+    "created": "2025-10-27T21:33:55.569Z",
+    "recurring": true,
+    "originalEventId": "event_1761600835569_kvov4dxbv"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-9",

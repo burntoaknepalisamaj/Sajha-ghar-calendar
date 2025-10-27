@@ -162,6 +162,19 @@
     "originalEventId": "event_1761570494913_ob36y6w3s"
   },
   {
+    "id": "event_1761600325435_hwqj0h1gy-1",
+    "date": "2025-11-01",
+    "title": "Music",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-10-27T21:25:25.435Z",
+    "recurring": true,
+    "originalEventId": "event_1761600325435_hwqj0h1gy"
+  },
+  {
     "id": "event_1761575781925_uat4rikiz",
     "date": "2025-11-02",
     "title": "Nepali Class",
@@ -240,6 +253,19 @@
     "originalEventId": "event_1761570980544_1bmcn5hfe"
   },
   {
+    "id": "event_1761600325435_hwqj0h1gy-2",
+    "date": "2025-11-08",
+    "title": "Music",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-10-27T21:25:25.435Z",
+    "recurring": true,
+    "originalEventId": "event_1761600325435_hwqj0h1gy"
+  },
+  {
     "id": "event_1761571572669_zx1x0n4pg-2",
     "date": "2025-11-09",
     "title": "Nepali Class ",
@@ -303,6 +329,19 @@
     "created": "2025-10-27T13:08:14.913Z",
     "recurring": true,
     "originalEventId": "event_1761570494913_ob36y6w3s"
+  },
+  {
+    "id": "event_1761600325435_hwqj0h1gy-3",
+    "date": "2025-11-15",
+    "title": "Music",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-10-27T21:25:25.435Z",
+    "recurring": true,
+    "originalEventId": "event_1761600325435_hwqj0h1gy"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-3",
@@ -383,6 +422,19 @@
     "originalEventId": "event_1761570980544_1bmcn5hfe"
   },
   {
+    "id": "event_1761600325435_hwqj0h1gy-4",
+    "date": "2025-11-22",
+    "title": "Music",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-10-27T21:25:25.435Z",
+    "recurring": true,
+    "originalEventId": "event_1761600325435_hwqj0h1gy"
+  },
+  {
     "id": "event_1761571572669_zx1x0n4pg-4",
     "date": "2025-11-23",
     "title": "Nepali Class ",
@@ -448,6 +500,19 @@
     "originalEventId": "event_1761570494913_ob36y6w3s"
   },
   {
+    "id": "event_1761600325435_hwqj0h1gy-5",
+    "date": "2025-11-29",
+    "title": "Music",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-10-27T21:25:25.435Z",
+    "recurring": true,
+    "originalEventId": "event_1761600325435_hwqj0h1gy"
+  },
+  {
     "id": "event_1761571572669_zx1x0n4pg-5",
     "date": "2025-11-30",
     "title": "Nepali Class ",
@@ -511,6 +576,19 @@
     "created": "2025-10-27T13:08:14.913Z",
     "recurring": true,
     "originalEventId": "event_1761570494913_ob36y6w3s"
+  },
+  {
+    "id": "event_1761600325435_hwqj0h1gy-6",
+    "date": "2025-12-06",
+    "title": "Music",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-10-27T21:25:25.435Z",
+    "recurring": true,
+    "originalEventId": "event_1761600325435_hwqj0h1gy"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-6",
@@ -592,6 +670,19 @@
     "originalEventId": "event_1761570980544_1bmcn5hfe"
   },
   {
+    "id": "event_1761600325435_hwqj0h1gy-7",
+    "date": "2025-12-13",
+    "title": "Music",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-10-27T21:25:25.435Z",
+    "recurring": true,
+    "originalEventId": "event_1761600325435_hwqj0h1gy"
+  },
+  {
     "id": "event_1761571572669_zx1x0n4pg-7",
     "date": "2025-12-14",
     "title": "Nepali Class ",
@@ -655,6 +746,19 @@
     "created": "2025-10-27T13:08:14.913Z",
     "recurring": true,
     "originalEventId": "event_1761570494913_ob36y6w3s"
+  },
+  {
+    "id": "event_1761600325435_hwqj0h1gy-8",
+    "date": "2025-12-20",
+    "title": "Music",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-10-27T21:25:25.435Z",
+    "recurring": true,
+    "originalEventId": "event_1761600325435_hwqj0h1gy"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-8",
@@ -733,6 +837,19 @@
     "created": "2025-10-27T13:16:20.544Z",
     "recurring": true,
     "originalEventId": "event_1761570980544_1bmcn5hfe"
+  },
+  {
+    "id": "event_1761600325435_hwqj0h1gy-9",
+    "date": "2025-12-27",
+    "title": "Music",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-10-27T21:25:25.435Z",
+    "recurring": true,
+    "originalEventId": "event_1761600325435_hwqj0h1gy"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-9",

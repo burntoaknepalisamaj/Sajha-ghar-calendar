@@ -240,6 +240,18 @@
     "updated": "2025-10-27T14:36:42.450Z"
   },
   {
+    "id": "event_1761600932786_3l3ars17h",
+    "date": "2025-11-02",
+    "title": "Food Bank",
+    "startTime": "12:15",
+    "endTime": "14:00",
+    "description": "",
+    "color": "#8BC34A",
+    "colorName": "Light Green",
+    "created": "2025-10-27T21:35:32.786Z",
+    "recurring": false
+  },
+  {
     "id": "event_1761570414281_8q7w11n8u-2",
     "date": "2025-11-03",
     "title": "Sahaja Yoga",

@@ -18,12 +18,12 @@
     "date": "2025-11-02",
     "title": "Test Data",
     "startTime": "09:30",
-    "endTime": "12:15",
+    "endTime": "13:00",
     "description": "This is test data",
     "color": "#009688",
     "colorName": "Teal",
     "created": "2025-10-26T19:02:10.581Z",
     "recurring": false,
-    "updated": "2025-10-26T19:58:38.945Z"
+    "updated": "2025-10-27T12:58:51.050Z"
   }
 ]

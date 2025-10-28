@@ -136,10 +136,11 @@
     "startTime": "12:15",
     "endTime": "14:00",
     "description": "",
-    "color": "#8BC34A",
-    "colorName": "Light Green",
+    "color": "#F44336",
+    "colorName": "Red",
     "created": "2025-10-27T21:35:32.786Z",
-    "recurring": false
+    "recurring": false,
+    "updated": "2025-10-28T14:50:56.780Z"
   },
   {
     "id": "event_1761570414281_8q7w11n8u-2",

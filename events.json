@@ -495,19 +495,6 @@
     "updated": "2025-10-27T21:40:50.664Z"
   },
   {
-    "id": "event_1761600835569_kvov4dxbv-4",
-    "date": "2025-11-22",
-    "title": "Dance Class",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "description": "",
-    "color": "#FFC107",
-    "colorName": "Amber",
-    "created": "2025-10-27T21:33:55.569Z",
-    "recurring": true,
-    "originalEventId": "event_1761600835569_kvov4dxbv"
-  },
-  {
     "id": "event_1761571572669_zx1x0n4pg-4",
     "date": "2025-11-23",
     "title": "Nepali Class ",

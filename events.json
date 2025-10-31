@@ -624,19 +624,6 @@
     "originalEventId": "event_1761600178668_6bejsu27m"
   },
   {
-    "id": "event_1761602532353_s09sr7v1q-5",
-    "date": "2025-11-26",
-    "title": "Wonderful Wednesday",
-    "startTime": "11:30",
-    "endTime": "15:00",
-    "description": "A special session targeting loneliness",
-    "color": "#00BCD4",
-    "colorName": "Cyan",
-    "created": "2025-10-27T22:02:12.353Z",
-    "recurring": true,
-    "originalEventId": "event_1761602532353_s09sr7v1q"
-  },
-  {
     "id": "event_1761913197511_xtuj6mmig-4",
     "date": "2025-11-26",
     "title": "Senior English Session",

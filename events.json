@@ -1352,19 +1352,6 @@
     "originalEventId": "event_1761913677986_ebshwmu0t"
   },
   {
-    "id": "event_1761570980544_1bmcn5hfe-7",
-    "date": "2025-12-13",
-    "title": "Health & Wellbeing Hub",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
-    "color": "#009688",
-    "colorName": "Teal",
-    "created": "2025-10-27T13:16:20.544Z",
-    "recurring": true,
-    "originalEventId": "event_1761570980544_1bmcn5hfe"
-  },
-  {
     "id": "event_1761600325435_hwqj0h1gy-7",
     "date": "2025-12-13",
     "title": "Music",

@@ -455,19 +455,6 @@
     "originalEventId": "event_1761600219138_wao95g5tx"
   },
   {
-    "id": "event_1761600508370_s4s4vpjru-4",
-    "date": "2025-11-21",
-    "title": "Art",
-    "startTime": "17:00",
-    "endTime": "18:00",
-    "description": "Children Art Therapy",
-    "color": "#FF9800",
-    "colorName": "Orange",
-    "created": "2025-10-27T21:28:28.370Z",
-    "recurring": true,
-    "originalEventId": "event_1761600508370_s4s4vpjru"
-  },
-  {
     "id": "event_1761570494913_ob36y6w3s-4",
     "date": "2025-11-22",
     "title": "Sahaja Yoga",

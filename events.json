@@ -156,6 +156,19 @@
     "originalEventId": "event_1761570414281_8q7w11n8u"
   },
   {
+    "id": "event_1761908428443_vl5dalu3k-1",
+    "date": "2025-11-03",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
+  },
+  {
     "id": "event_1761600178668_6bejsu27m-2",
     "date": "2025-11-04",
     "title": "Zumba",
@@ -272,6 +285,19 @@
     "created": "2025-10-27T13:06:54.281Z",
     "recurring": true,
     "originalEventId": "event_1761570414281_8q7w11n8u"
+  },
+  {
+    "id": "event_1761908428443_vl5dalu3k-2",
+    "date": "2025-11-10",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
   },
   {
     "id": "event_1761600178668_6bejsu27m-3",
@@ -404,6 +430,19 @@
     "originalEventId": "event_1761570414281_8q7w11n8u"
   },
   {
+    "id": "event_1761908428443_vl5dalu3k-3",
+    "date": "2025-11-17",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
+  },
+  {
     "id": "event_1761600178668_6bejsu27m-4",
     "date": "2025-11-18",
     "title": "Zumba",
@@ -520,6 +559,19 @@
     "created": "2025-10-27T13:06:54.281Z",
     "recurring": true,
     "originalEventId": "event_1761570414281_8q7w11n8u"
+  },
+  {
+    "id": "event_1761908428443_vl5dalu3k-4",
+    "date": "2025-11-24",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
   },
   {
     "id": "event_1761600178668_6bejsu27m-5",
@@ -650,6 +702,19 @@
     "created": "2025-10-27T13:06:54.281Z",
     "recurring": true,
     "originalEventId": "event_1761570414281_8q7w11n8u"
+  },
+  {
+    "id": "event_1761908428443_vl5dalu3k-5",
+    "date": "2025-12-01",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
   },
   {
     "id": "event_1761600178668_6bejsu27m-6",
@@ -793,6 +858,19 @@
     "created": "2025-10-27T13:06:54.281Z",
     "recurring": true,
     "originalEventId": "event_1761570414281_8q7w11n8u"
+  },
+  {
+    "id": "event_1761908428443_vl5dalu3k-6",
+    "date": "2025-12-08",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
   },
   {
     "id": "event_1761600178668_6bejsu27m-7",
@@ -939,6 +1017,19 @@
     "originalEventId": "event_1761570414281_8q7w11n8u"
   },
   {
+    "id": "event_1761908428443_vl5dalu3k-7",
+    "date": "2025-12-15",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
+  },
+  {
     "id": "event_1761600178668_6bejsu27m-8",
     "date": "2025-12-16",
     "title": "Zumba",
@@ -1067,6 +1158,19 @@
     "created": "2025-10-27T13:06:54.281Z",
     "recurring": true,
     "originalEventId": "event_1761570414281_8q7w11n8u"
+  },
+  {
+    "id": "event_1761908428443_vl5dalu3k-8",
+    "date": "2025-12-22",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
   },
   {
     "id": "event_1761600178668_6bejsu27m-9",
@@ -1213,6 +1317,19 @@
     "originalEventId": "event_1761570414281_8q7w11n8u"
   },
   {
+    "id": "event_1761908428443_vl5dalu3k-9",
+    "date": "2025-12-29",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
+  },
+  {
     "id": "event_1761600178668_6bejsu27m-10",
     "date": "2025-12-30",
     "title": "Zumba",
@@ -1250,5 +1367,57 @@
     "created": "2025-10-27T22:02:12.353Z",
     "recurring": true,
     "originalEventId": "event_1761602532353_s09sr7v1q"
+  },
+  {
+    "id": "event_1761908428443_vl5dalu3k-10",
+    "date": "2026-01-05",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
+  },
+  {
+    "id": "event_1761908428443_vl5dalu3k-11",
+    "date": "2026-01-12",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
+  },
+  {
+    "id": "event_1761908428443_vl5dalu3k-12",
+    "date": "2026-01-19",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
+  },
+  {
+    "id": "event_1761908428443_vl5dalu3k-13",
+    "date": "2026-01-26",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T11:00:28.443Z",
+    "recurring": true,
+    "originalEventId": "event_1761908428443_vl5dalu3k"
   }
 ]

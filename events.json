@@ -897,19 +897,6 @@
     "originalEventId": "event_1761913544688_4acxdf4vh"
   },
   {
-    "id": "event_1761600219138_wao95g5tx-7",
-    "date": "2025-12-12",
-    "title": "Yoga",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "description": "Free Yoga session to Everyone",
-    "color": "#795548",
-    "colorName": "Brown",
-    "created": "2025-10-27T21:23:39.138Z",
-    "recurring": true,
-    "originalEventId": "event_1761600219138_wao95g5tx"
-  },
-  {
     "id": "event_1761600508370_s4s4vpjru-7",
     "date": "2025-12-12",
     "title": "Art",

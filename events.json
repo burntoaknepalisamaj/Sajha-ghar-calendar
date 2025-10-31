@@ -702,19 +702,6 @@
     "originalEventId": "event_1761600178668_6bejsu27m"
   },
   {
-    "id": "event_1761913072282_q1zfmc0vg-4",
-    "date": "2025-11-25",
-    "title": "Zumba",
-    "startTime": "06:30",
-    "endTime": "07:30",
-    "description": "Free Zumba Session for Everyone ",
-    "color": "#607D8B",
-    "colorName": "Blue Gray",
-    "created": "2025-10-31T12:17:52.282Z",
-    "recurring": true,
-    "originalEventId": "event_1761913072282_q1zfmc0vg"
-  },
-  {
     "id": "event_1761602478338_7a8n352ry-5",
     "date": "2025-11-26",
     "title": "Senior English Class",

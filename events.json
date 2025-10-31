@@ -97,7 +97,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -142,6 +142,19 @@
     "created": "2025-10-27T21:33:55.569Z",
     "recurring": true,
     "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-1",
+    "date": "2025-11-01",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761600932786_3l3ars17h",
@@ -304,7 +317,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -350,6 +363,19 @@
     "recurring": true,
     "originalEventId": "event_1761600325435_hwqj0h1gy",
     "updated": "2025-10-27T21:40:31.195Z"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-2",
+    "date": "2025-11-08",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-2",
@@ -513,7 +539,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -558,6 +584,19 @@
     "created": "2025-10-27T21:33:55.569Z",
     "recurring": true,
     "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-3",
+    "date": "2025-11-15",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-3",
@@ -708,7 +747,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -754,6 +793,19 @@
     "recurring": true,
     "originalEventId": "event_1761600325435_hwqj0h1gy",
     "updated": "2025-10-27T21:40:50.664Z"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-4",
+    "date": "2025-11-22",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-4",
@@ -917,7 +969,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -962,6 +1014,19 @@
     "created": "2025-10-27T21:33:55.569Z",
     "recurring": true,
     "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-5",
+    "date": "2025-11-29",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-5",
@@ -1125,7 +1190,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -1170,6 +1235,19 @@
     "created": "2025-10-27T21:33:55.569Z",
     "recurring": true,
     "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-6",
+    "date": "2025-12-06",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-6",
@@ -1346,7 +1424,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -1405,6 +1483,19 @@
     "created": "2025-10-27T21:33:55.569Z",
     "recurring": true,
     "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-7",
+    "date": "2025-12-13",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-7",
@@ -1568,7 +1659,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -1613,6 +1704,19 @@
     "created": "2025-10-27T21:33:55.569Z",
     "recurring": true,
     "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-8",
+    "date": "2025-12-20",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-8",
@@ -1776,7 +1880,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -1835,6 +1939,19 @@
     "created": "2025-10-27T21:33:55.569Z",
     "recurring": true,
     "originalEventId": "event_1761600835569_kvov4dxbv"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-9",
+    "date": "2025-12-27",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-9",
@@ -1972,12 +2089,25 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
     "recurring": true,
     "originalEventId": "event_1761913920243_dh8motmqn"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-10",
+    "date": "2026-01-03",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761908428443_vl5dalu3k-10",
@@ -2050,12 +2180,25 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
     "recurring": true,
     "originalEventId": "event_1761913920243_dh8motmqn"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-11",
+    "date": "2026-01-10",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761908428443_vl5dalu3k-11",
@@ -2128,12 +2271,25 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
     "recurring": true,
     "originalEventId": "event_1761913920243_dh8motmqn"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-12",
+    "date": "2026-01-17",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761908428443_vl5dalu3k-12",
@@ -2206,12 +2362,25 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
     "recurring": true,
     "originalEventId": "event_1761913920243_dh8motmqn"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-13",
+    "date": "2026-01-24",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   },
   {
     "id": "event_1761908428443_vl5dalu3k-13",
@@ -2284,11 +2453,24 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Children’s Art Therapy ",
+    "description": "Childrenâs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
     "recurring": true,
     "originalEventId": "event_1761913920243_dh8motmqn"
+  },
+  {
+    "id": "event_1761914109661_h713298kt-14",
+    "date": "2026-01-31",
+    "title": "Sahaja Yoga",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-31T12:35:09.661Z",
+    "recurring": true,
+    "originalEventId": "event_1761914109661_h713298kt"
   }
 ]

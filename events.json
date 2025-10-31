@@ -299,20 +299,6 @@
     "originalEventId": "event_1761570494913_ob36y6w3s"
   },
   {
-    "id": "event_1761600325435_hwqj0h1gy-2",
-    "date": "2025-11-08",
-    "title": "Music",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
-    "color": "#CDDC39",
-    "colorName": "Lime",
-    "created": "2025-10-27T21:25:25.435Z",
-    "recurring": true,
-    "originalEventId": "event_1761600325435_hwqj0h1gy",
-    "updated": "2025-10-27T21:40:31.195Z"
-  },
-  {
     "id": "event_1761914109661_h713298kt-2",
     "date": "2025-11-08",
     "title": "Sahaja Yoga",

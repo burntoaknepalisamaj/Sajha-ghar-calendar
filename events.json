@@ -97,7 +97,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -155,6 +155,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-1",
+    "date": "2025-11-01",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761600932786_3l3ars17h",
@@ -317,7 +330,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -376,6 +389,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-2",
+    "date": "2025-11-08",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-2",
@@ -539,7 +565,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -597,6 +623,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-3",
+    "date": "2025-11-15",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-3",
@@ -747,7 +786,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -806,6 +845,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-4",
+    "date": "2025-11-22",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-4",
@@ -969,7 +1021,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -1027,6 +1079,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-5",
+    "date": "2025-11-29",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-5",
@@ -1190,7 +1255,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -1248,6 +1313,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-6",
+    "date": "2025-12-06",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-6",
@@ -1424,7 +1502,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -1496,6 +1574,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-7",
+    "date": "2025-12-13",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-7",
@@ -1659,7 +1750,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -1717,6 +1808,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-8",
+    "date": "2025-12-20",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-8",
@@ -1880,7 +1984,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -1952,6 +2056,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-9",
+    "date": "2025-12-27",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761571572669_zx1x0n4pg-9",
@@ -2089,7 +2206,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -2108,6 +2225,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-10",
+    "date": "2026-01-03",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761908428443_vl5dalu3k-10",
@@ -2180,7 +2310,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -2199,6 +2329,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-11",
+    "date": "2026-01-10",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761908428443_vl5dalu3k-11",
@@ -2271,7 +2414,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -2290,6 +2433,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-12",
+    "date": "2026-01-17",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761908428443_vl5dalu3k-12",
@@ -2362,7 +2518,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -2381,6 +2537,19 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-13",
+    "date": "2026-01-24",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   },
   {
     "id": "event_1761908428443_vl5dalu3k-13",
@@ -2453,7 +2622,7 @@
     "title": "Art",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Childrenâs Art Therapy ",
+    "description": "ChildrenÃ¢ÂÂs Art Therapy ",
     "color": "#FF9800",
     "colorName": "Orange",
     "created": "2025-10-31T12:32:00.243Z",
@@ -2472,5 +2641,18 @@
     "created": "2025-10-31T12:35:09.661Z",
     "recurring": true,
     "originalEventId": "event_1761914109661_h713298kt"
+  },
+  {
+    "id": "event_1761914536747_q9bur3z3y-14",
+    "date": "2026-01-31",
+    "title": "Health & Wellbeing Hub",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "Burnt Oak Nepalese Community Health & Wellbeing Team running health sessions every second Saturday (BLS) and fourth Saturday ( Health awareness). This is a free health awareness session and everyone is welcome to attend.",
+    "color": "#009688",
+    "colorName": "Teal",
+    "created": "2025-10-31T12:42:16.748Z",
+    "recurring": true,
+    "originalEventId": "event_1761914536747_q9bur3z3y"
   }
 ]

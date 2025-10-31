@@ -1781,20 +1781,6 @@
     "originalEventId": "event_1761913677986_ebshwmu0t"
   },
   {
-    "id": "event_1761600325435_hwqj0h1gy-9",
-    "date": "2025-12-27",
-    "title": "Music",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "description": "Weekly music session which mainly focuses on Nepali Musical Instruments",
-    "color": "#CDDC39",
-    "colorName": "Lime",
-    "created": "2025-10-27T21:25:25.435Z",
-    "recurring": true,
-    "originalEventId": "event_1761600325435_hwqj0h1gy",
-    "updated": "2025-10-27T21:42:11.675Z"
-  },
-  {
     "id": "event_1761600835569_kvov4dxbv-9",
     "date": "2025-12-27",
     "title": "Dance Class",

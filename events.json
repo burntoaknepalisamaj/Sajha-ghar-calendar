@@ -221,6 +221,19 @@
     "originalEventId": "event_1761602532353_s09sr7v1q"
   },
   {
+    "id": "event_1761913197511_xtuj6mmig-1",
+    "date": "2025-11-05",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
+  },
+  {
     "id": "event_1761600219138_wao95g5tx-2",
     "date": "2025-11-07",
     "title": "Yoga",
@@ -363,6 +376,19 @@
     "created": "2025-10-27T22:02:12.353Z",
     "recurring": true,
     "originalEventId": "event_1761602532353_s09sr7v1q"
+  },
+  {
+    "id": "event_1761913197511_xtuj6mmig-2",
+    "date": "2025-11-12",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
   },
   {
     "id": "event_1761600219138_wao95g5tx-3",
@@ -521,6 +547,19 @@
     "originalEventId": "event_1761602532353_s09sr7v1q"
   },
   {
+    "id": "event_1761913197511_xtuj6mmig-3",
+    "date": "2025-11-19",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
+  },
+  {
     "id": "event_1761600219138_wao95g5tx-4",
     "date": "2025-11-21",
     "title": "Yoga",
@@ -663,6 +702,19 @@
     "created": "2025-10-27T22:02:12.353Z",
     "recurring": true,
     "originalEventId": "event_1761602532353_s09sr7v1q"
+  },
+  {
+    "id": "event_1761913197511_xtuj6mmig-4",
+    "date": "2025-11-26",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
   },
   {
     "id": "event_1761600219138_wao95g5tx-5",
@@ -819,6 +871,19 @@
     "created": "2025-10-27T22:02:12.353Z",
     "recurring": true,
     "originalEventId": "event_1761602532353_s09sr7v1q"
+  },
+  {
+    "id": "event_1761913197511_xtuj6mmig-5",
+    "date": "2025-12-03",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
   },
   {
     "id": "event_1761600219138_wao95g5tx-6",
@@ -988,6 +1053,19 @@
     "created": "2025-10-27T22:02:12.353Z",
     "recurring": true,
     "originalEventId": "event_1761602532353_s09sr7v1q"
+  },
+  {
+    "id": "event_1761913197511_xtuj6mmig-6",
+    "date": "2025-12-10",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
   },
   {
     "id": "event_1761600219138_wao95g5tx-7",
@@ -1160,6 +1238,19 @@
     "originalEventId": "event_1761602532353_s09sr7v1q"
   },
   {
+    "id": "event_1761913197511_xtuj6mmig-7",
+    "date": "2025-12-17",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
+  },
+  {
     "id": "event_1761600219138_wao95g5tx-8",
     "date": "2025-12-19",
     "title": "Yoga",
@@ -1314,6 +1405,19 @@
     "created": "2025-10-27T22:02:12.353Z",
     "recurring": true,
     "originalEventId": "event_1761602532353_s09sr7v1q"
+  },
+  {
+    "id": "event_1761913197511_xtuj6mmig-8",
+    "date": "2025-12-24",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
   },
   {
     "id": "event_1761600219138_wao95g5tx-9",
@@ -1486,6 +1590,19 @@
     "originalEventId": "event_1761602532353_s09sr7v1q"
   },
   {
+    "id": "event_1761913197511_xtuj6mmig-9",
+    "date": "2025-12-31",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
+  },
+  {
     "id": "event_1761908428443_vl5dalu3k-10",
     "date": "2026-01-05",
     "title": "Sahaja Yoga",
@@ -1510,6 +1627,19 @@
     "created": "2025-10-31T12:17:52.282Z",
     "recurring": true,
     "originalEventId": "event_1761913072282_q1zfmc0vg"
+  },
+  {
+    "id": "event_1761913197511_xtuj6mmig-10",
+    "date": "2026-01-07",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
   },
   {
     "id": "event_1761908428443_vl5dalu3k-11",
@@ -1538,6 +1668,19 @@
     "originalEventId": "event_1761913072282_q1zfmc0vg"
   },
   {
+    "id": "event_1761913197511_xtuj6mmig-11",
+    "date": "2026-01-14",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
+  },
+  {
     "id": "event_1761908428443_vl5dalu3k-12",
     "date": "2026-01-19",
     "title": "Sahaja Yoga",
@@ -1564,6 +1707,19 @@
     "originalEventId": "event_1761913072282_q1zfmc0vg"
   },
   {
+    "id": "event_1761913197511_xtuj6mmig-12",
+    "date": "2026-01-21",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
+  },
+  {
     "id": "event_1761908428443_vl5dalu3k-13",
     "date": "2026-01-26",
     "title": "Sahaja Yoga",
@@ -1588,5 +1744,18 @@
     "created": "2025-10-31T12:17:52.282Z",
     "recurring": true,
     "originalEventId": "event_1761913072282_q1zfmc0vg"
+  },
+  {
+    "id": "event_1761913197511_xtuj6mmig-13",
+    "date": "2026-01-28",
+    "title": "Senior English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "Free English Session for Senior Citizens ",
+    "color": "#FFEB3B",
+    "colorName": "Yellow",
+    "created": "2025-10-31T12:19:57.511Z",
+    "recurring": true,
+    "originalEventId": "event_1761913197511_xtuj6mmig"
   }
 ]

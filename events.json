@@ -481,19 +481,6 @@
     "originalEventId": "event_1761600178668_6bejsu27m"
   },
   {
-    "id": "event_1761602478338_7a8n352ry-4",
-    "date": "2025-11-19",
-    "title": "Senior English Class",
-    "startTime": "10:00",
-    "endTime": "11:30",
-    "description": "Senior English Class",
-    "color": "#FFEB3B",
-    "colorName": "Yellow",
-    "created": "2025-10-27T22:01:18.338Z",
-    "recurring": true,
-    "originalEventId": "event_1761602478338_7a8n352ry"
-  },
-  {
     "id": "event_1761602532353_s09sr7v1q-4",
     "date": "2025-11-19",
     "title": "Wonderful Wednesday",

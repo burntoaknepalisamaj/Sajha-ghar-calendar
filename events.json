@@ -351,6 +351,18 @@
     "originalEventId": "event_1761600508370_s4s4vpjru"
   },
   {
+    "id": "event_1761920865097_w1wn290f8",
+    "date": "2025-11-14",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Free Yoga session to Everyone",
+    "color": "#795548",
+    "colorName": "Brown",
+    "created": "2025-10-31T14:27:45.097Z",
+    "recurring": false
+  },
+  {
     "id": "event_1761914109661_h713298kt-3",
     "date": "2025-11-15",
     "title": "Sahaja Yoga",

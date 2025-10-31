@@ -92,19 +92,6 @@
     "originalEventId": "event_1761570494913_ob36y6w3s"
   },
   {
-    "id": "event_1761600835569_kvov4dxbv-1",
-    "date": "2025-11-01",
-    "title": "Dance Class",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "description": "",
-    "color": "#FFC107",
-    "colorName": "Amber",
-    "created": "2025-10-27T21:33:55.569Z",
-    "recurring": true,
-    "originalEventId": "event_1761600835569_kvov4dxbv"
-  },
-  {
     "id": "event_1761914536747_q9bur3z3y-1",
     "date": "2025-11-01",
     "title": "Health & Wellbeing Hub",

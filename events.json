@@ -1348,7 +1348,7 @@
     "title": "Food Bank ",
     "startTime": "12:15",
     "endTime": "14:00",
-    "description": "Food Bank run by AninoÃÂ¢ÃÂÃÂs church ",
+    "description": "Food Bank run by AninoÃÂÃÂ¢ÃÂÃÂÃÂÃÂs church ",
     "color": "#F44336",
     "colorName": "Red",
     "created": "2025-11-03T11:45:20.278Z",
@@ -1697,7 +1697,7 @@
     "id": "event_1761915369853_avtco0qvn-13",
     "date": "2026-01-24",
     "title": "Music lessons ",
-    "startTime": "14:00",
+    "startTime": "13:00",
     "endTime": "16:00",
     "description": "Music lessons for all teaching traditional musical instruments",
     "color": "#CDDC39",
@@ -1705,7 +1705,7 @@
     "created": "2025-10-31T12:56:09.853Z",
     "recurring": true,
     "originalEventId": "event_1761915369853_avtco0qvn",
-    "updated": "2025-11-03T11:47:05.401Z"
+    "updated": "2025-11-03T11:51:16.735Z"
   },
   {
     "id": "event_1761915495296_xhtxwd8ct-13",

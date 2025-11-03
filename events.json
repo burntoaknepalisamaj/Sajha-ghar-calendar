@@ -2167,6 +2167,18 @@
     "originalEventId": "event_1762176282448_uvre1ozsj"
   },
   {
+    "id": "event_1762179766693_w5uuv4i43",
+    "date": "2026-03-01",
+    "title": "Food Bank",
+    "startTime": "12:15",
+    "endTime": "14:00",
+    "description": "Food Bank run by Anino's church ",
+    "color": "#F44336",
+    "colorName": "Red",
+    "created": "2025-11-03T14:22:46.693Z",
+    "recurring": false
+  },
+  {
     "id": "event_1762176553084_6usqtapwp-5",
     "date": "2026-03-02",
     "title": "Sahaja Yoga",

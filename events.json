@@ -2535,19 +2535,6 @@
     "originalEventId": "event_1762176553084_6usqtapwp"
   },
   {
-    "id": "event_1762176282448_uvre1ozsj-12",
-    "date": "2026-04-18",
-    "title": "Nepali class",
-    "startTime": "09:30",
-    "endTime": "13:00",
-    "description": "Nepali class for kids",
-    "color": "#3F51B5",
-    "colorName": "Indigo",
-    "created": "2025-11-03T13:24:42.448Z",
-    "recurring": true,
-    "originalEventId": "event_1762176282448_uvre1ozsj"
-  },
-  {
     "id": "event_1762176553084_6usqtapwp-12",
     "date": "2026-04-19",
     "title": "Sahaja Yoga",

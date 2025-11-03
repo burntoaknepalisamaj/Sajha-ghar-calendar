@@ -2076,14 +2076,15 @@
     "id": "event_1762177103467_kh3788sbz-3",
     "date": "2026-02-20",
     "title": "Yoga",
-    "startTime": "06:30",
+    "startTime": "18:30",
     "endTime": "19:30",
     "description": " Free Yoga session for Everyone",
     "color": "#795548",
     "colorName": "Brown",
     "created": "2025-11-03T13:38:23.467Z",
     "recurring": true,
-    "originalEventId": "event_1762177103467_kh3788sbz"
+    "originalEventId": "event_1762177103467_kh3788sbz",
+    "updated": "2025-11-03T13:41:55.743Z"
   },
   {
     "id": "event_1762176282448_uvre1ozsj-4",

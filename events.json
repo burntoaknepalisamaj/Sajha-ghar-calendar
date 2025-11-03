@@ -260,6 +260,18 @@
     "originalEventId": "event_1761571572669_zx1x0n4pg"
   },
   {
+    "id": "event_1762168413270_2o6uzvild",
+    "date": "2025-11-09",
+    "title": "Constitution Amendment meeting ",
+    "startTime": "14:30",
+    "endTime": "17:07",
+    "description": "An informative session for BONC members about the proposed changes in BONC constitution so as to enable informed decision making.",
+    "color": "#F44336",
+    "colorName": "Red",
+    "created": "2025-11-03T11:13:33.270Z",
+    "recurring": false
+  },
+  {
     "id": "event_1761570414281_8q7w11n8u-3",
     "date": "2025-11-10",
     "title": "Sahaja Yoga",

@@ -1838,18 +1838,6 @@
     "originalEventId": "event_1761915495296_xhtxwd8ct"
   },
   {
-    "id": "event_1762172752310_f04q4yrqj",
-    "date": "2026-02-01",
-    "title": "Food bank",
-    "startTime": "12:15",
-    "endTime": "14:00",
-    "description": "Food bank by Anino's church.",
-    "color": "#F44336",
-    "colorName": "Red",
-    "created": "2025-11-03T12:25:52.310Z",
-    "recurring": false
-  },
-  {
     "id": "event_1762176282448_uvre1ozsj-1",
     "date": "2026-02-01",
     "title": "Nepali class",

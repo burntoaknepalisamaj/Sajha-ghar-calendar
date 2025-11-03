@@ -914,14 +914,15 @@
     "id": "event_1761915369853_avtco0qvn-7",
     "date": "2025-12-13",
     "title": "Music lessons ",
-    "startTime": "12:00",
+    "startTime": "13:00",
     "endTime": "16:00",
     "description": "Music lessons for all teaching traditional musical instruments",
     "color": "#CDDC39",
     "colorName": "Lime",
     "created": "2025-10-31T12:56:09.853Z",
     "recurring": true,
-    "originalEventId": "event_1761915369853_avtco0qvn"
+    "originalEventId": "event_1761915369853_avtco0qvn",
+    "updated": "2025-11-03T11:38:10.843Z"
   },
   {
     "id": "event_1761915495296_xhtxwd8ct-7",

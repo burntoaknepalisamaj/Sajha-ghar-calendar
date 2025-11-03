@@ -264,12 +264,13 @@
     "date": "2025-11-09",
     "title": "Constitution Amendment meeting ",
     "startTime": "14:30",
-    "endTime": "17:07",
+    "endTime": "17:00",
     "description": "An informative session for BONC members about the proposed changes in BONC constitution so as to enable informed decision making.",
     "color": "#F44336",
     "colorName": "Red",
     "created": "2025-11-03T11:13:33.270Z",
-    "recurring": false
+    "recurring": false,
+    "updated": "2025-11-03T11:15:35.816Z"
   },
   {
     "id": "event_1761570414281_8q7w11n8u-3",

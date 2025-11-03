@@ -2483,19 +2483,6 @@
     "originalEventId": "event_1762176282448_uvre1ozsj"
   },
   {
-    "id": "event_1762177103467_kh3788sbz-9",
-    "date": "2026-04-02",
-    "title": "Yoga",
-    "startTime": "06:30",
-    "endTime": "19:30",
-    "description": " Free Yoga session for Everyone",
-    "color": "#795548",
-    "colorName": "Brown",
-    "created": "2025-11-03T13:38:23.467Z",
-    "recurring": true,
-    "originalEventId": "event_1762177103467_kh3788sbz"
-  },
-  {
     "id": "event_1762176282448_uvre1ozsj-10",
     "date": "2026-04-04",
     "title": "Nepali class",

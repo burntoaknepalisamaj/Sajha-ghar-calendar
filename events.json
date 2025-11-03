@@ -2171,13 +2171,14 @@
     "date": "2026-03-01",
     "title": "Nepali class",
     "startTime": "09:30",
-    "endTime": "13:00",
+    "endTime": "12:15",
     "description": "Nepali class for kids",
     "color": "#3F51B5",
     "colorName": "Indigo",
     "created": "2025-11-03T13:24:42.448Z",
     "recurring": true,
-    "originalEventId": "event_1762176282448_uvre1ozsj"
+    "originalEventId": "event_1762176282448_uvre1ozsj",
+    "updated": "2025-11-03T14:26:07.147Z"
   },
   {
     "id": "event_1762179766693_w5uuv4i43",

@@ -2637,18 +2637,5 @@
     "created": "2025-11-03T13:29:13.084Z",
     "recurring": true,
     "originalEventId": "event_1762176553084_6usqtapwp"
-  },
-  {
-    "id": "event_1762176975771_xoubp2cb6-13",
-    "date": "2026-04-28",
-    "title": "Wonderful Wednesday ",
-    "startTime": "11:30",
-    "endTime": "15:00",
-    "description": "Special Session targeting loneliness ",
-    "color": "#00BCD4",
-    "colorName": "Cyan",
-    "created": "2025-11-03T13:36:15.771Z",
-    "recurring": true,
-    "originalEventId": "event_1762176975771_xoubp2cb6"
   }
 ]

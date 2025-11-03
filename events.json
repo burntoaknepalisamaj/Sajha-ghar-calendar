@@ -807,18 +807,6 @@
     "recurring": false
   },
   {
-    "id": "event_1762170124420_19ship2gs",
-    "date": "2025-12-07",
-    "title": "Food Bank",
-    "startTime": "12:15",
-    "endTime": "14:00",
-    "description": "Food Bank run by AninoÃÂ¢ÃÂÃÂs Church ",
-    "color": "#F44336",
-    "colorName": "Red",
-    "created": "2025-11-03T11:42:04.420Z",
-    "recurring": false
-  },
-  {
     "id": "event_1761570414281_8q7w11n8u-7",
     "date": "2025-12-08",
     "title": "Sahaja Yoga",
@@ -1360,7 +1348,7 @@
     "title": "Food Bank ",
     "startTime": "12:15",
     "endTime": "14:00",
-    "description": "Food Bank run by AninoÃ¢ÂÂs church ",
+    "description": "Food Bank run by AninoÃÂ¢ÃÂÃÂs church ",
     "color": "#F44336",
     "colorName": "Red",
     "created": "2025-11-03T11:45:20.278Z",

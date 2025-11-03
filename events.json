@@ -812,7 +812,7 @@
     "title": "Food Bank",
     "startTime": "12:15",
     "endTime": "14:00",
-    "description": "Food Bank run by Anino’s Church ",
+    "description": "Food Bank run by Aninoâs Church ",
     "color": "#F44336",
     "colorName": "Red",
     "created": "2025-11-03T11:42:04.420Z",
@@ -1353,6 +1353,18 @@
     "recurring": true,
     "originalEventId": "event_1761915618417_ft05e0sc4",
     "updated": "2025-10-31T13:01:38.639Z"
+  },
+  {
+    "id": "event_1762170320278_g8aplmhv4",
+    "date": "2026-01-04",
+    "title": "Food Bank ",
+    "startTime": "12:15",
+    "endTime": "14:00",
+    "description": "Food Bank run by Anino’s church ",
+    "color": "#F44336",
+    "colorName": "Red",
+    "created": "2025-11-03T11:45:20.278Z",
+    "recurring": false
   },
   {
     "id": "event_1761908428443_vl5dalu3k-10",

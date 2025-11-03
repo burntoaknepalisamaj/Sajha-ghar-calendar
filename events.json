@@ -2561,19 +2561,6 @@
     "originalEventId": "event_1762176553084_6usqtapwp"
   },
   {
-    "id": "event_1762176667262_3qv238wr2-11",
-    "date": "2026-04-13",
-    "title": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "description": "Free Zumba Session to Everyone",
-    "color": "#607D8B",
-    "colorName": "Blue Gray",
-    "created": "2025-11-03T13:31:07.262Z",
-    "recurring": true,
-    "originalEventId": "event_1762176667262_3qv238wr2"
-  },
-  {
     "id": "event_1762176863308_lgu21wei1-11",
     "date": "2026-04-14",
     "title": "Senior's English Lesson",

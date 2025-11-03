@@ -2600,19 +2600,6 @@
     "originalEventId": "event_1762176553084_6usqtapwp"
   },
   {
-    "id": "event_1762176863308_lgu21wei1-12",
-    "date": "2026-04-21",
-    "title": "Senior's English Lesson",
-    "startTime": "10:00",
-    "endTime": "11:30",
-    "description": "Free English Session for Senior Citizens ",
-    "color": "#FFEB3B",
-    "colorName": "Yellow",
-    "created": "2025-11-03T13:34:23.308Z",
-    "recurring": true,
-    "originalEventId": "event_1762176863308_lgu21wei1"
-  },
-  {
     "id": "event_1762176975771_xoubp2cb6-12",
     "date": "2026-04-21",
     "title": "Wonderful Wednesday ",

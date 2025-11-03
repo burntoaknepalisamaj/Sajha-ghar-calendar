@@ -1930,6 +1930,19 @@
     "updated": "2025-11-03T13:40:19.712Z"
   },
   {
+    "id": "event_1762186143114_rokmsj20l-1",
+    "date": "2026-02-07",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.114Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
+  },
+  {
     "id": "event_1762176282448_uvre1ozsj-2",
     "date": "2026-02-08",
     "title": "Nepali class",
@@ -2007,6 +2020,19 @@
     "recurring": true,
     "originalEventId": "event_1762177103467_kh3788sbz",
     "updated": "2025-11-03T13:41:11.660Z"
+  },
+  {
+    "id": "event_1762186143114_rokmsj20l-2",
+    "date": "2026-02-14",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.114Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
   },
   {
     "id": "event_1762176282448_uvre1ozsj-3",
@@ -2088,6 +2114,19 @@
     "updated": "2025-11-03T13:41:55.743Z"
   },
   {
+    "id": "event_1762186143114_rokmsj20l-3",
+    "date": "2026-02-21",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.114Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
+  },
+  {
     "id": "event_1762176282448_uvre1ozsj-4",
     "date": "2026-02-22",
     "title": "Nepali class",
@@ -2165,6 +2204,19 @@
     "recurring": true,
     "originalEventId": "event_1762177103467_kh3788sbz",
     "updated": "2025-11-03T13:42:25.934Z"
+  },
+  {
+    "id": "event_1762186143114_rokmsj20l-4",
+    "date": "2026-02-28",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.115Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
   },
   {
     "id": "event_1762176282448_uvre1ozsj-5",
@@ -2246,6 +2298,19 @@
     "updated": "2025-11-03T13:43:04.565Z"
   },
   {
+    "id": "event_1762186143114_rokmsj20l-5",
+    "date": "2026-03-07",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.115Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
+  },
+  {
     "id": "event_1762176282448_uvre1ozsj-6",
     "date": "2026-03-08",
     "title": "Nepali class",
@@ -2310,6 +2375,19 @@
     "recurring": true,
     "originalEventId": "event_1762177103467_kh3788sbz",
     "updated": "2025-11-03T13:43:29.614Z"
+  },
+  {
+    "id": "event_1762186143114_rokmsj20l-6",
+    "date": "2026-03-14",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.115Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
   },
   {
     "id": "event_1762176282448_uvre1ozsj-7",
@@ -2378,6 +2456,19 @@
     "updated": "2025-11-03T13:44:01.818Z"
   },
   {
+    "id": "event_1762186143114_rokmsj20l-7",
+    "date": "2026-03-21",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.115Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
+  },
+  {
     "id": "event_1762176282448_uvre1ozsj-8",
     "date": "2026-03-22",
     "title": "Nepali class",
@@ -2444,6 +2535,19 @@
     "updated": "2025-11-03T13:44:28.273Z"
   },
   {
+    "id": "event_1762186143114_rokmsj20l-8",
+    "date": "2026-03-28",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.115Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
+  },
+  {
     "id": "event_1762176282448_uvre1ozsj-9",
     "date": "2026-03-29",
     "title": "Nepali class",
@@ -2455,5 +2559,57 @@
     "created": "2025-11-03T13:24:42.448Z",
     "recurring": true,
     "originalEventId": "event_1762176282448_uvre1ozsj"
+  },
+  {
+    "id": "event_1762186143114_rokmsj20l-9",
+    "date": "2026-04-04",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.115Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
+  },
+  {
+    "id": "event_1762186143114_rokmsj20l-10",
+    "date": "2026-04-11",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.115Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
+  },
+  {
+    "id": "event_1762186143114_rokmsj20l-11",
+    "date": "2026-04-18",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.115Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
+  },
+  {
+    "id": "event_1762186143114_rokmsj20l-12",
+    "date": "2026-04-25",
+    "title": "Music lessons ",
+    "startTime": "12:00",
+    "endTime": "16:00",
+    "description": "Music lessons for all teaching traditional musical instruments",
+    "color": "#CDDC39",
+    "colorName": "Lime",
+    "created": "2025-11-03T16:09:03.115Z",
+    "recurring": true,
+    "originalEventId": "event_1762186143114_rokmsj20l"
   }
 ]

@@ -474,11 +474,12 @@
     "startTime": "19:00",
     "endTime": "22:00",
     "description": "This is Test Event",
-    "color": "#483d8b",
-    "colorName": "Dark Slate Blue",
+    "color": "#2e8b57",
+    "colorName": "Sea Green",
     "created": "2025-11-04T13:20:40.834Z",
     "recurring": true,
-    "originalEventId": "event_1762262440834_ff26ymlrn"
+    "originalEventId": "event_1762262440834_ff26ymlrn",
+    "updated": "2025-11-04T13:43:23.976Z"
   },
   {
     "id": "event_1761600219138_wao95g5tx-4",

@@ -2245,19 +2245,6 @@
     "recurring": false
   },
   {
-    "id": "event_1762335613861_h7ky5jgmb-1",
-    "date": "2026-03-01",
-    "title": "Nepali Class",
-    "startTime": "09:30",
-    "endTime": "13:00",
-    "description": "Nepali Class for kids",
-    "color": "#191970",
-    "colorName": "Midnight Blue",
-    "created": "2025-11-05T09:40:13.861Z",
-    "recurring": true,
-    "originalEventId": "event_1762335613861_h7ky5jgmb"
-  },
-  {
     "id": "event_1762176667262_3qv238wr2-5",
     "date": "2026-03-03",
     "title": "Zumba",

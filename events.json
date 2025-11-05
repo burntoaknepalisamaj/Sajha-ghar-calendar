@@ -1,18 +1,5 @@
 [
   {
-    "id": "event_1762302377677_utskvjbqd-2",
-    "date": "2025-09-13",
-    "title": "Nepali Class",
-    "startTime": "09:30",
-    "endTime": "13:00",
-    "description": "Nepali Class for Kids",
-    "color": "#191970",
-    "colorName": "Midnight Blue",
-    "created": "2025-11-05T00:26:17.677Z",
-    "recurring": true,
-    "originalEventId": "event_1762302377677_utskvjbqd"
-  },
-  {
     "id": "event_1762302377677_utskvjbqd-3",
     "date": "2025-09-20",
     "title": "Nepali Class",

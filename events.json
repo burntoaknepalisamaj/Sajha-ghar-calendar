@@ -1927,14 +1927,15 @@
     "id": "event_1762349538511_al4v63wja-13",
     "date": "2025-11-29",
     "title": "Music Lessons",
-    "startTime": "13:00",
+    "startTime": "12:00",
     "endTime": "16:00",
     "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you're a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome - come along and keep our rich musical heritage alive!",
     "color": "#ff8c00",
     "colorName": "Dark Orange",
     "created": "2025-11-05T13:32:18.513Z",
     "recurring": true,
-    "originalEventId": "event_1762349538511_al4v63wja"
+    "originalEventId": "event_1762349538511_al4v63wja",
+    "updated": "2025-11-05T13:54:39.786Z"
   },
   {
     "id": "event_1762349887440_w34mxb9d7-13",

@@ -2639,19 +2639,6 @@
     "originalEventId": "event_1762186143114_rokmsj20l"
   },
   {
-    "id": "event_1762335613861_h7ky5jgmb-6",
-    "date": "2026-04-05",
-    "title": "Nepali Class",
-    "startTime": "09:30",
-    "endTime": "13:00",
-    "description": "Nepali Class for kids",
-    "color": "#191970",
-    "colorName": "Midnight Blue",
-    "created": "2025-11-05T09:40:13.861Z",
-    "recurring": true,
-    "originalEventId": "event_1762335613861_h7ky5jgmb"
-  },
-  {
     "id": "event_1762186143114_rokmsj20l-10",
     "date": "2026-04-11",
     "title": "Music lessons ",

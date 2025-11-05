@@ -130,6 +130,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-1",
+    "date": "2025-09-06",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.440Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-1",
     "date": "2025-09-07",
     "title": "Nepali Class",
@@ -271,6 +284,19 @@
     "created": "2025-11-05T13:32:18.512Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-2",
+    "date": "2025-09-13",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.440Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-2",
@@ -416,6 +442,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-3",
+    "date": "2025-09-20",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-3",
     "date": "2025-09-21",
     "title": "Nepali Class",
@@ -557,6 +596,19 @@
     "created": "2025-11-05T13:32:18.512Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-4",
+    "date": "2025-09-27",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-4",
@@ -702,6 +754,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-5",
+    "date": "2025-10-04",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-5",
     "date": "2025-10-05",
     "title": "Nepali Class",
@@ -843,6 +908,19 @@
     "created": "2025-11-05T13:32:18.513Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-6",
+    "date": "2025-10-11",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-6",
@@ -988,6 +1066,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-7",
+    "date": "2025-10-18",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-7",
     "date": "2025-10-19",
     "title": "Nepali Class",
@@ -1131,6 +1222,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-8",
+    "date": "2025-10-25",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-8",
     "date": "2025-10-26",
     "title": "Nepali Class",
@@ -1272,6 +1376,19 @@
     "created": "2025-11-05T13:32:18.513Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-9",
+    "date": "2025-11-01",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762342072489_f8jthq5vr",
@@ -1429,6 +1546,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-10",
+    "date": "2025-11-08",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762342127474_1osxfwy7s",
     "date": "2025-11-09",
     "title": "Constitution Amendment meeting",
@@ -1584,6 +1714,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-11",
+    "date": "2025-11-15",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-11",
     "date": "2025-11-16",
     "title": "Nepali Class",
@@ -1725,6 +1868,19 @@
     "created": "2025-11-05T13:32:18.513Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-12",
+    "date": "2025-11-22",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-12",
@@ -1870,6 +2026,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-13",
+    "date": "2025-11-29",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-13",
     "date": "2025-11-30",
     "title": "Nepali Class",
@@ -2011,6 +2180,19 @@
     "created": "2025-11-05T13:32:18.514Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-14",
+    "date": "2025-12-06",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.441Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-14",
@@ -2156,6 +2338,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-15",
+    "date": "2025-12-13",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-15",
     "date": "2025-12-14",
     "title": "Nepali Class",
@@ -2297,6 +2492,19 @@
     "created": "2025-11-05T13:32:18.514Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-16",
+    "date": "2025-12-20",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-16",
@@ -2442,6 +2650,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-17",
+    "date": "2025-12-27",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-17",
     "date": "2025-12-28",
     "title": "Nepali Class",
@@ -2583,6 +2804,19 @@
     "created": "2025-11-05T13:32:18.514Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-18",
+    "date": "2026-01-03",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-18",
@@ -2728,6 +2962,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-19",
+    "date": "2026-01-10",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-19",
     "date": "2026-01-11",
     "title": "Nepali Class",
@@ -2869,6 +3116,19 @@
     "created": "2025-11-05T13:32:18.514Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-20",
+    "date": "2026-01-17",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-20",
@@ -3014,6 +3274,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-21",
+    "date": "2026-01-24",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-21",
     "date": "2026-01-25",
     "title": "Nepali Class",
@@ -3155,6 +3428,19 @@
     "created": "2025-11-05T13:32:18.514Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-22",
+    "date": "2026-01-31",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-22",
@@ -3300,6 +3586,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-23",
+    "date": "2026-02-07",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-23",
     "date": "2026-02-08",
     "title": "Nepali Class",
@@ -3441,6 +3740,19 @@
     "created": "2025-11-05T13:32:18.515Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-24",
+    "date": "2026-02-14",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-24",
@@ -3586,6 +3898,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-25",
+    "date": "2026-02-21",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-25",
     "date": "2026-02-22",
     "title": "Nepali Class",
@@ -3727,6 +4052,19 @@
     "created": "2025-11-05T13:32:18.515Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-26",
+    "date": "2026-02-28",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.442Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-26",
@@ -3872,6 +4210,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-27",
+    "date": "2026-03-07",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.443Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-27",
     "date": "2026-03-08",
     "title": "Nepali Class",
@@ -4013,6 +4364,19 @@
     "created": "2025-11-05T13:32:18.515Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-28",
+    "date": "2026-03-14",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.443Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-28",
@@ -4158,6 +4522,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-29",
+    "date": "2026-03-21",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.443Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-29",
     "date": "2026-03-22",
     "title": "Nepali Class",
@@ -4299,6 +4676,19 @@
     "created": "2025-11-05T13:32:18.515Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-30",
+    "date": "2026-03-28",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.443Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-30",
@@ -4444,6 +4834,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-31",
+    "date": "2026-04-04",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.443Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-31",
     "date": "2026-04-05",
     "title": "Nepali Class",
@@ -4585,6 +4988,19 @@
     "created": "2025-11-05T13:32:18.516Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-32",
+    "date": "2026-04-11",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.443Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-32",
@@ -4730,6 +5146,19 @@
     "originalEventId": "event_1762349538511_al4v63wja"
   },
   {
+    "id": "event_1762349887440_w34mxb9d7-33",
+    "date": "2026-04-18",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.443Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-33",
     "date": "2026-04-19",
     "title": "Nepali Class",
@@ -4871,6 +5300,19 @@
     "created": "2025-11-05T13:32:18.516Z",
     "recurring": true,
     "originalEventId": "event_1762349538511_al4v63wja"
+  },
+  {
+    "id": "event_1762349887440_w34mxb9d7-34",
+    "date": "2026-04-25",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2025-11-05T13:38:07.443Z",
+    "recurring": true,
+    "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
     "id": "event_1762347667821_3v6zm8lsr-34",

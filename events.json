@@ -2903,19 +2903,6 @@
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
   {
-    "id": "event_1762348891502_2mqaf0x5d-20",
-    "date": "2026-01-17",
-    "title": "Health & Wellbeing Hub",
-    "startTime": "11:30",
-    "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall. \nEvery 2nd Saturday: Basic Life Support (BLS) Training - Learn essential life-saving skills and how to respond in an emergency.\nEvery 4th Saturday: Health Awareness Programme - Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!",
-    "color": "#007ba7",
-    "colorName": "Cerulean",
-    "created": "2025-11-05T13:21:31.505Z",
-    "recurring": true,
-    "originalEventId": "event_1762348891502_2mqaf0x5d"
-  },
-  {
     "id": "event_1762349305126_ug2dpxxll-20",
     "date": "2026-01-17",
     "title": "Music Lessons",

@@ -57,7 +57,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.354Z",
@@ -96,7 +96,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -109,12 +109,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.080Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-1",
+    "date": "2025-09-06",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.481Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-2",
@@ -174,7 +187,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.354Z",
@@ -213,7 +226,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -226,12 +239,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-2",
+    "date": "2025-09-13",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.481Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-3",
@@ -291,7 +317,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.354Z",
@@ -330,7 +356,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -343,12 +369,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-3",
+    "date": "2025-09-20",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.481Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-4",
@@ -408,7 +447,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.354Z",
@@ -447,7 +486,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -460,12 +499,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-4",
+    "date": "2025-09-27",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.481Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-5",
@@ -525,7 +577,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.355Z",
@@ -564,7 +616,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -577,12 +629,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-5",
+    "date": "2025-10-04",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.481Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-6",
@@ -642,7 +707,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.355Z",
@@ -681,7 +746,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -694,12 +759,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-6",
+    "date": "2025-10-11",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.481Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-7",
@@ -759,7 +837,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.355Z",
@@ -798,7 +876,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -811,12 +889,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-7",
+    "date": "2025-10-18",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.481Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-8",
@@ -876,7 +967,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.355Z",
@@ -915,7 +1006,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -928,12 +1019,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-8",
+    "date": "2025-10-25",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.481Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-9",
@@ -993,7 +1097,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.355Z",
@@ -1032,7 +1136,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -1045,12 +1149,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-9",
+    "date": "2025-11-01",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.481Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-10",
@@ -1110,7 +1227,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.355Z",
@@ -1149,7 +1266,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -1162,12 +1279,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-10",
+    "date": "2025-11-08",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.481Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-11",
@@ -1227,7 +1357,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.355Z",
@@ -1266,7 +1396,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -1279,12 +1409,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-11",
+    "date": "2025-11-15",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-12",
@@ -1344,7 +1487,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.355Z",
@@ -1383,7 +1526,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.489Z",
@@ -1396,12 +1539,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-12",
+    "date": "2025-11-22",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-13",
@@ -1461,7 +1617,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.356Z",
@@ -1500,7 +1656,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -1513,12 +1669,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-13",
+    "date": "2025-11-29",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-14",
@@ -1578,7 +1747,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.356Z",
@@ -1617,7 +1786,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -1630,12 +1799,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-14",
+    "date": "2025-12-06",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-15",
@@ -1695,7 +1877,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.356Z",
@@ -1734,7 +1916,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -1747,12 +1929,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-15",
+    "date": "2025-12-13",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-16",
@@ -1812,7 +2007,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.356Z",
@@ -1851,7 +2046,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -1864,12 +2059,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-16",
+    "date": "2025-12-20",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-17",
@@ -1929,7 +2137,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.356Z",
@@ -1968,7 +2176,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -1981,12 +2189,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-17",
+    "date": "2025-12-27",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-18",
@@ -2046,7 +2267,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.356Z",
@@ -2085,7 +2306,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -2098,12 +2319,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-18",
+    "date": "2026-01-03",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-19",
@@ -2163,7 +2397,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.356Z",
@@ -2202,7 +2436,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -2215,12 +2449,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-19",
+    "date": "2026-01-10",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-20",
@@ -2280,7 +2527,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.356Z",
@@ -2319,7 +2566,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -2332,12 +2579,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-20",
+    "date": "2026-01-17",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-21",
@@ -2397,7 +2657,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.357Z",
@@ -2436,7 +2696,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -2449,12 +2709,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-21",
+    "date": "2026-01-24",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-22",
@@ -2514,7 +2787,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.357Z",
@@ -2553,7 +2826,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -2566,12 +2839,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-22",
+    "date": "2026-01-31",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-23",
@@ -2631,7 +2917,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.357Z",
@@ -2670,7 +2956,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -2683,12 +2969,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-23",
+    "date": "2026-02-07",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-24",
@@ -2748,7 +3047,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.357Z",
@@ -2787,7 +3086,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -2800,12 +3099,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-24",
+    "date": "2026-02-14",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-25",
@@ -2865,7 +3177,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.357Z",
@@ -2904,7 +3216,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -2917,12 +3229,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-25",
+    "date": "2026-02-21",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-26",
@@ -2982,7 +3307,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.357Z",
@@ -3021,7 +3346,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.490Z",
@@ -3034,12 +3359,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-26",
+    "date": "2026-02-28",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-27",
@@ -3099,7 +3437,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.357Z",
@@ -3138,7 +3476,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.491Z",
@@ -3151,12 +3489,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.081Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-27",
+    "date": "2026-03-07",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-28",
@@ -3216,7 +3567,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.357Z",
@@ -3255,7 +3606,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.491Z",
@@ -3268,12 +3619,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.082Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-28",
+    "date": "2026-03-14",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-29",
@@ -3333,7 +3697,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.358Z",
@@ -3372,7 +3736,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.491Z",
@@ -3385,12 +3749,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.082Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-29",
+    "date": "2026-03-21",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-30",
@@ -3450,7 +3827,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.358Z",
@@ -3489,7 +3866,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.491Z",
@@ -3502,12 +3879,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.082Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-30",
+    "date": "2026-03-28",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-31",
@@ -3567,7 +3957,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.358Z",
@@ -3606,7 +3996,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.491Z",
@@ -3619,12 +4009,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.082Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-31",
+    "date": "2026-04-04",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-32",
@@ -3684,7 +4087,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.358Z",
@@ -3723,7 +4126,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.491Z",
@@ -3736,12 +4139,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.082Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-32",
+    "date": "2026-04-11",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-33",
@@ -3801,7 +4217,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.358Z",
@@ -3840,7 +4256,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.491Z",
@@ -3853,12 +4269,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.082Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-33",
+    "date": "2026-04-18",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.482Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-34",
@@ -3918,7 +4347,7 @@
     "title": "Art Therapy",
     "startTime": "17:00",
     "endTime": "18:00",
-    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂ¢ÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ just bring your creativity!",
+    "description": "Join our fun and creative Art Programme for children! This free programme encourages young artists to express themselves through drawing, painting, and craft activities. ItÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs a great way for children to explore their imagination, build confidence, and make new friends in a supportive environment. All materials are provided ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ just bring your creativity!",
     "color": "#da70d6",
     "colorName": "Orchid",
     "created": "2025-11-05T10:59:01.358Z",
@@ -3957,7 +4386,7 @@
     "title": "Health & Wellbeing Hub",
     "startTime": "11:30",
     "endTime": "13:00",
-    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nâ Every 2nd Saturday: Basic Life Support (BLS) Training â Learn essential life-saving skills and how to respond in an emergency.\nâ Every 4th Saturday: Health Awareness Programme â Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
+    "description": "Take care of your health and learn valuable skills with our Free Health Sessions held at the community hall.\nÃ¢ÂÂ Every 2nd Saturday: Basic Life Support (BLS) Training Ã¢ÂÂ Learn essential life-saving skills and how to respond in an emergency.\nÃ¢ÂÂ Every 4th Saturday: Health Awareness Programme Ã¢ÂÂ Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing.\nEveryone is welcome - come along, learn, and look after your health in a friendly community setting!\n",
     "color": "#4169e1",
     "colorName": "Royal Blue",
     "created": "2025-11-05T11:11:49.491Z",
@@ -3970,12 +4399,25 @@
     "title": "Music lessons",
     "startTime": "13:00",
     "endTime": "16:00",
-    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether you’re a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome — come along and keep our rich musical heritage alive!",
+    "description": "Celebrate the beauty of Nepalese culture through music! Join our Free Music Sessions and experience the joy of traditional Nepalese melodies and rhythms. Whether youâre a beginner or already familiar with traditional instruments, this is a wonderful opportunity to learn, play, and connect with others who share a love for Nepalese music.\nAll are welcome â come along and keep our rich musical heritage alive!",
     "color": "#d2691e",
     "colorName": "Chocolate",
     "created": "2025-11-05T11:16:49.082Z",
     "recurring": true,
     "originalEventId": "event_1762341409080_vvyew2qix"
+  },
+  {
+    "id": "event_1762341544480_l7wloe9ql-34",
+    "date": "2026-04-25",
+    "title": "Dance",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "The Nepalese Dance Class aims to promote cultural learning and physical wellbeing among young people. Focusing on traditional and folk dances from Nepal, the sessions offer children an enjoyable way to stay active, express creativity, and connect with their cultural roots.",
+    "color": "#808000",
+    "colorName": "Olive",
+    "created": "2025-11-05T11:19:04.483Z",
+    "recurring": true,
+    "originalEventId": "event_1762341544480_l7wloe9ql"
   },
   {
     "id": "event_1762339537120_xucmctej2-35",

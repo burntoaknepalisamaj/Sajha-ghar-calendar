@@ -2220,6 +2220,18 @@
     "originalEventId": "event_1762347667821_3v6zm8lsr"
   },
   {
+    "id": "event_1762350238711_lk2fe8ygt",
+    "date": "2025-12-07",
+    "title": "Food Bank",
+    "startTime": "12:15",
+    "endTime": "14:00",
+    "description": "",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T13:43:58.711Z",
+    "recurring": false
+  },
+  {
     "id": "event_1762345133636_bfv5c92hm-15",
     "date": "2025-12-08",
     "title": "Sahaja Yoga",

@@ -2245,6 +2245,19 @@
     "recurring": false
   },
   {
+    "id": "event_1762335613861_h7ky5jgmb-1",
+    "date": "2026-03-01",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "description": "Nepali Class for kids",
+    "color": "#191970",
+    "colorName": "Midnight Blue",
+    "created": "2025-11-05T09:40:13.861Z",
+    "recurring": true,
+    "originalEventId": "event_1762335613861_h7ky5jgmb"
+  },
+  {
     "id": "event_1762176667262_3qv238wr2-5",
     "date": "2026-03-03",
     "title": "Zumba",
@@ -2322,6 +2335,19 @@
     "created": "2025-11-03T13:24:42.448Z",
     "recurring": true,
     "originalEventId": "event_1762176282448_uvre1ozsj"
+  },
+  {
+    "id": "event_1762335613861_h7ky5jgmb-2",
+    "date": "2026-03-08",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "description": "Nepali Class for kids",
+    "color": "#191970",
+    "colorName": "Midnight Blue",
+    "created": "2025-11-05T09:40:13.861Z",
+    "recurring": true,
+    "originalEventId": "event_1762335613861_h7ky5jgmb"
   },
   {
     "id": "event_1762176667262_3qv238wr2-6",
@@ -2403,6 +2429,19 @@
     "originalEventId": "event_1762176282448_uvre1ozsj"
   },
   {
+    "id": "event_1762335613861_h7ky5jgmb-3",
+    "date": "2026-03-15",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "description": "Nepali Class for kids",
+    "color": "#191970",
+    "colorName": "Midnight Blue",
+    "created": "2025-11-05T09:40:13.861Z",
+    "recurring": true,
+    "originalEventId": "event_1762335613861_h7ky5jgmb"
+  },
+  {
     "id": "event_1762176667262_3qv238wr2-7",
     "date": "2026-03-17",
     "title": "Zumba",
@@ -2480,6 +2519,19 @@
     "created": "2025-11-03T13:24:42.448Z",
     "recurring": true,
     "originalEventId": "event_1762176282448_uvre1ozsj"
+  },
+  {
+    "id": "event_1762335613861_h7ky5jgmb-4",
+    "date": "2026-03-22",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "description": "Nepali Class for kids",
+    "color": "#191970",
+    "colorName": "Midnight Blue",
+    "created": "2025-11-05T09:40:13.861Z",
+    "recurring": true,
+    "originalEventId": "event_1762335613861_h7ky5jgmb"
   },
   {
     "id": "event_1762176667262_3qv238wr2-8",
@@ -2561,6 +2613,19 @@
     "originalEventId": "event_1762176282448_uvre1ozsj"
   },
   {
+    "id": "event_1762335613861_h7ky5jgmb-5",
+    "date": "2026-03-29",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "description": "Nepali Class for kids",
+    "color": "#191970",
+    "colorName": "Midnight Blue",
+    "created": "2025-11-05T09:40:13.861Z",
+    "recurring": true,
+    "originalEventId": "event_1762335613861_h7ky5jgmb"
+  },
+  {
     "id": "event_1762186143114_rokmsj20l-9",
     "date": "2026-04-04",
     "title": "Music lessons ",
@@ -2572,6 +2637,19 @@
     "created": "2025-11-03T16:09:03.115Z",
     "recurring": true,
     "originalEventId": "event_1762186143114_rokmsj20l"
+  },
+  {
+    "id": "event_1762335613861_h7ky5jgmb-6",
+    "date": "2026-04-05",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "description": "Nepali Class for kids",
+    "color": "#191970",
+    "colorName": "Midnight Blue",
+    "created": "2025-11-05T09:40:13.861Z",
+    "recurring": true,
+    "originalEventId": "event_1762335613861_h7ky5jgmb"
   },
   {
     "id": "event_1762186143114_rokmsj20l-10",
@@ -2587,6 +2665,19 @@
     "originalEventId": "event_1762186143114_rokmsj20l"
   },
   {
+    "id": "event_1762335613861_h7ky5jgmb-7",
+    "date": "2026-04-12",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "description": "Nepali Class for kids",
+    "color": "#191970",
+    "colorName": "Midnight Blue",
+    "created": "2025-11-05T09:40:13.861Z",
+    "recurring": true,
+    "originalEventId": "event_1762335613861_h7ky5jgmb"
+  },
+  {
     "id": "event_1762186143114_rokmsj20l-11",
     "date": "2026-04-18",
     "title": "Music lessons ",
@@ -2600,6 +2691,19 @@
     "originalEventId": "event_1762186143114_rokmsj20l"
   },
   {
+    "id": "event_1762335613861_h7ky5jgmb-8",
+    "date": "2026-04-19",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "description": "Nepali Class for kids",
+    "color": "#191970",
+    "colorName": "Midnight Blue",
+    "created": "2025-11-05T09:40:13.862Z",
+    "recurring": true,
+    "originalEventId": "event_1762335613861_h7ky5jgmb"
+  },
+  {
     "id": "event_1762186143114_rokmsj20l-12",
     "date": "2026-04-25",
     "title": "Music lessons ",
@@ -2611,5 +2715,18 @@
     "created": "2025-11-03T16:09:03.115Z",
     "recurring": true,
     "originalEventId": "event_1762186143114_rokmsj20l"
+  },
+  {
+    "id": "event_1762335613861_h7ky5jgmb-9",
+    "date": "2026-04-26",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "description": "Nepali Class for kids",
+    "color": "#191970",
+    "colorName": "Midnight Blue",
+    "created": "2025-11-05T09:40:13.862Z",
+    "recurring": true,
+    "originalEventId": "event_1762335613861_h7ky5jgmb"
   }
 ]

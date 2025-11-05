@@ -13,6 +13,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-1",
+    "date": "2025-09-02",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.536Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-2",
     "date": "2025-09-08",
     "title": "Sahaja Yoga",
@@ -24,6 +37,19 @@
     "created": "2025-11-05T10:45:37.120Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-2",
+    "date": "2025-09-09",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.536Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-3",
@@ -39,6 +65,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-3",
+    "date": "2025-09-16",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.536Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-4",
     "date": "2025-09-22",
     "title": "Sahaja Yoga",
@@ -50,6 +89,19 @@
     "created": "2025-11-05T10:45:37.121Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-4",
+    "date": "2025-09-23",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.537Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-5",
@@ -65,6 +117,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-5",
+    "date": "2025-09-30",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.537Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-6",
     "date": "2025-10-06",
     "title": "Sahaja Yoga",
@@ -76,6 +141,19 @@
     "created": "2025-11-05T10:45:37.121Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-6",
+    "date": "2025-10-07",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.537Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-7",
@@ -91,6 +169,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-7",
+    "date": "2025-10-14",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.537Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-8",
     "date": "2025-10-20",
     "title": "Sahaja Yoga",
@@ -102,6 +193,19 @@
     "created": "2025-11-05T10:45:37.121Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-8",
+    "date": "2025-10-21",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.537Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-9",
@@ -117,6 +221,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-9",
+    "date": "2025-10-28",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.537Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-10",
     "date": "2025-11-03",
     "title": "Sahaja Yoga",
@@ -128,6 +245,19 @@
     "created": "2025-11-05T10:45:37.121Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-10",
+    "date": "2025-11-04",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.537Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-11",
@@ -143,6 +273,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-11",
+    "date": "2025-11-11",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.538Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-12",
     "date": "2025-11-17",
     "title": "Sahaja Yoga",
@@ -154,6 +297,19 @@
     "created": "2025-11-05T10:45:37.121Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-12",
+    "date": "2025-11-18",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.538Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-13",
@@ -169,6 +325,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-13",
+    "date": "2025-11-25",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.538Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-14",
     "date": "2025-12-01",
     "title": "Sahaja Yoga",
@@ -180,6 +349,19 @@
     "created": "2025-11-05T10:45:37.122Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-14",
+    "date": "2025-12-02",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.538Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-15",
@@ -195,6 +377,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-15",
+    "date": "2025-12-09",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.538Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-16",
     "date": "2025-12-15",
     "title": "Sahaja Yoga",
@@ -206,6 +401,19 @@
     "created": "2025-11-05T10:45:37.122Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-16",
+    "date": "2025-12-16",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.538Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-17",
@@ -221,6 +429,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-17",
+    "date": "2025-12-23",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.538Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-18",
     "date": "2025-12-29",
     "title": "Sahaja Yoga",
@@ -232,6 +453,19 @@
     "created": "2025-11-05T10:45:37.122Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-18",
+    "date": "2025-12-30",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.538Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-19",
@@ -247,6 +481,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-19",
+    "date": "2026-01-06",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.538Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-20",
     "date": "2026-01-12",
     "title": "Sahaja Yoga",
@@ -258,6 +505,19 @@
     "created": "2025-11-05T10:45:37.122Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-20",
+    "date": "2026-01-13",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.539Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-21",
@@ -273,6 +533,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-21",
+    "date": "2026-01-20",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.539Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-22",
     "date": "2026-01-26",
     "title": "Sahaja Yoga",
@@ -284,6 +557,19 @@
     "created": "2025-11-05T10:45:37.122Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-22",
+    "date": "2026-01-27",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.539Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-23",
@@ -299,6 +585,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-23",
+    "date": "2026-02-03",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.539Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-24",
     "date": "2026-02-09",
     "title": "Sahaja Yoga",
@@ -310,6 +609,19 @@
     "created": "2025-11-05T10:45:37.123Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-24",
+    "date": "2026-02-10",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.539Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-25",
@@ -325,6 +637,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-25",
+    "date": "2026-02-17",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.539Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-26",
     "date": "2026-02-23",
     "title": "Sahaja Yoga",
@@ -336,6 +661,19 @@
     "created": "2025-11-05T10:45:37.123Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-26",
+    "date": "2026-02-24",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.539Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-27",
@@ -351,6 +689,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-27",
+    "date": "2026-03-03",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.539Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-28",
     "date": "2026-03-09",
     "title": "Sahaja Yoga",
@@ -362,6 +713,19 @@
     "created": "2025-11-05T10:45:37.123Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-28",
+    "date": "2026-03-10",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.539Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-29",
@@ -377,6 +741,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-29",
+    "date": "2026-03-17",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.539Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-30",
     "date": "2026-03-23",
     "title": "Sahaja Yoga",
@@ -388,6 +765,19 @@
     "created": "2025-11-05T10:45:37.123Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-30",
+    "date": "2026-03-24",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.540Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-31",
@@ -403,6 +793,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-31",
+    "date": "2026-03-31",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.540Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-32",
     "date": "2026-04-06",
     "title": "Sahaja Yoga",
@@ -414,6 +817,19 @@
     "created": "2025-11-05T10:45:37.123Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-32",
+    "date": "2026-04-07",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.540Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   },
   {
     "id": "event_1762339537120_xucmctej2-33",
@@ -429,6 +845,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-33",
+    "date": "2026-04-14",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.540Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-34",
     "date": "2026-04-20",
     "title": "Sahaja Yoga",
@@ -442,6 +871,19 @@
     "originalEventId": "event_1762339537120_xucmctej2"
   },
   {
+    "id": "event_1762339700536_81gl8d558-34",
+    "date": "2026-04-21",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.540Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
+  },
+  {
     "id": "event_1762339537120_xucmctej2-35",
     "date": "2026-04-27",
     "title": "Sahaja Yoga",
@@ -453,5 +895,18 @@
     "created": "2025-11-05T10:45:37.124Z",
     "recurring": true,
     "originalEventId": "event_1762339537120_xucmctej2"
+  },
+  {
+    "id": "event_1762339700536_81gl8d558-35",
+    "date": "2026-04-28",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2025-11-05T10:48:20.540Z",
+    "recurring": true,
+    "originalEventId": "event_1762339700536_81gl8d558"
   }
 ]

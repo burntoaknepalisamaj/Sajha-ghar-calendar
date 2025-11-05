@@ -1,5 +1,17 @@
 [
   {
+    "id": "event_1762302299622_8ui5z6rag",
+    "date": "2025-09-21",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "13:00",
+    "description": "Nepali Class for kids",
+    "color": "#191970",
+    "colorName": "Midnight Blue",
+    "created": "2025-11-05T00:24:59.622Z",
+    "recurring": false
+  },
+  {
     "id": "event_1761570414281_8q7w11n8u-1",
     "date": "2025-10-27",
     "title": "Sahaja Yoga",

@@ -10,5 +10,17 @@
     "colorName": "Crimson",
     "created": "2025-11-05T11:27:52.489Z",
     "recurring": false
+  },
+  {
+    "id": "event_1762342127474_1osxfwy7s",
+    "date": "2025-11-09",
+    "title": "Constitution Amendment meeting",
+    "startTime": "14:30",
+    "endTime": "17:00",
+    "description": "An informative session for BONC members about the proposed changes in BONC constitution so as to enable informed decision making.",
+    "color": "#dc143c",
+    "colorName": "Crimson",
+    "created": "2025-11-05T11:28:47.474Z",
+    "recurring": false
   }
 ]

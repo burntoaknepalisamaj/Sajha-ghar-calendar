@@ -51,7 +51,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-1",
+    "date": "2025-09-05",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-1",
     "date": "2025-09-06",
     "title": "Sahaja Yoga",
@@ -64,7 +77,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-2",
     "date": "2025-09-08",
     "title": "Sahaja Yoga",
@@ -116,7 +129,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-2",
+    "date": "2025-09-12",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-2",
     "date": "2025-09-13",
     "title": "Sahaja Yoga",
@@ -129,7 +155,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-3",
     "date": "2025-09-15",
     "title": "Sahaja Yoga",
@@ -181,7 +207,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-3",
+    "date": "2025-09-19",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-3",
     "date": "2025-09-20",
     "title": "Sahaja Yoga",
@@ -194,7 +233,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-   {
+  {
     "id": "event_1762345133636_bfv5c92hm-4",
     "date": "2025-09-22",
     "title": "Sahaja Yoga",
@@ -246,7 +285,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-4",
+    "date": "2025-09-26",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-4",
     "date": "2025-09-27",
     "title": "Sahaja Yoga",
@@ -259,7 +311,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-5",
     "date": "2025-09-29",
     "title": "Sahaja Yoga",
@@ -311,7 +363,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-5",
+    "date": "2025-10-03",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-5",
     "date": "2025-10-04",
     "title": "Sahaja Yoga",
@@ -324,7 +389,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-6",
     "date": "2025-10-06",
     "title": "Sahaja Yoga",
@@ -376,7 +441,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-6",
+    "date": "2025-10-10",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-6",
     "date": "2025-10-11",
     "title": "Sahaja Yoga",
@@ -389,7 +467,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-7",
     "date": "2025-10-13",
     "title": "Sahaja Yoga",
@@ -441,7 +519,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-7",
+    "date": "2025-10-17",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-7",
     "date": "2025-10-18",
     "title": "Sahaja Yoga",
@@ -454,7 +545,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-     {
+  {
     "id": "event_1762345133636_bfv5c92hm-8",
     "date": "2025-10-20",
     "title": "Sahaja Yoga",
@@ -506,7 +597,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-8",
+    "date": "2025-10-24",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-8",
     "date": "2025-10-25",
     "title": "Sahaja Yoga",
@@ -519,7 +623,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-9",
     "date": "2025-10-27",
     "title": "Sahaja Yoga",
@@ -571,7 +675,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-9",
+    "date": "2025-10-31",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-9",
     "date": "2025-11-01",
     "title": "Sahaja Yoga",
@@ -584,7 +701,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-   {
+  {
     "id": "event_1762342072489_f8jthq5vr",
     "date": "2025-11-02",
     "title": "Nepali Village presentation",
@@ -648,7 +765,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-10",
+    "date": "2025-11-07",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-10",
     "date": "2025-11-08",
     "title": "Sahaja Yoga",
@@ -661,7 +791,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762342127474_1osxfwy7s",
     "date": "2025-11-09",
     "title": "Constitution Amendment meeting",
@@ -725,7 +855,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-11",
+    "date": "2025-11-14",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-11",
     "date": "2025-11-15",
     "title": "Sahaja Yoga",
@@ -738,7 +881,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-   {
+  {
     "id": "event_1762345133636_bfv5c92hm-12",
     "date": "2025-11-17",
     "title": "Sahaja Yoga",
@@ -790,7 +933,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-12",
+    "date": "2025-11-21",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.990Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-12",
     "date": "2025-11-22",
     "title": "Sahaja Yoga",
@@ -803,7 +959,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-13",
     "date": "2025-11-24",
     "title": "Sahaja Yoga",
@@ -855,7 +1011,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-13",
+    "date": "2025-11-28",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.991Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-13",
     "date": "2025-11-29",
     "title": "Sahaja Yoga",
@@ -868,7 +1037,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-   {
+  {
     "id": "event_1762345133636_bfv5c92hm-14",
     "date": "2025-12-01",
     "title": "Sahaja Yoga",
@@ -920,7 +1089,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-14",
+    "date": "2025-12-05",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.991Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-14",
     "date": "2025-12-06",
     "title": "Sahaja Yoga",
@@ -933,7 +1115,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-   {
+  {
     "id": "event_1762345133636_bfv5c92hm-15",
     "date": "2025-12-08",
     "title": "Sahaja Yoga",
@@ -985,7 +1167,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-15",
+    "date": "2025-12-12",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.991Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-15",
     "date": "2025-12-13",
     "title": "Sahaja Yoga",
@@ -998,7 +1193,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-   {
+  {
     "id": "event_1762345133636_bfv5c92hm-16",
     "date": "2025-12-15",
     "title": "Sahaja Yoga",
@@ -1050,7 +1245,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-16",
+    "date": "2025-12-19",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.991Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-16",
     "date": "2025-12-20",
     "title": "Sahaja Yoga",
@@ -1063,7 +1271,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-17",
     "date": "2025-12-22",
     "title": "Sahaja Yoga",
@@ -1115,7 +1323,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-17",
+    "date": "2025-12-26",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.991Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-17",
     "date": "2025-12-27",
     "title": "Sahaja Yoga",
@@ -1128,7 +1349,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-18",
     "date": "2025-12-29",
     "title": "Sahaja Yoga",
@@ -1180,7 +1401,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-18",
+    "date": "2026-01-02",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.991Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-18",
     "date": "2026-01-03",
     "title": "Sahaja Yoga",
@@ -1193,7 +1427,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-19",
     "date": "2026-01-05",
     "title": "Sahaja Yoga",
@@ -1245,7 +1479,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-19",
+    "date": "2026-01-09",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.991Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-19",
     "date": "2026-01-10",
     "title": "Sahaja Yoga",
@@ -1258,7 +1505,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-     {
+  {
     "id": "event_1762345133636_bfv5c92hm-20",
     "date": "2026-01-12",
     "title": "Sahaja Yoga",
@@ -1310,7 +1557,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-20",
+    "date": "2026-01-16",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.991Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-20",
     "date": "2026-01-17",
     "title": "Sahaja Yoga",
@@ -1323,7 +1583,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-21",
     "date": "2026-01-19",
     "title": "Sahaja Yoga",
@@ -1375,7 +1635,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-21",
+    "date": "2026-01-23",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.991Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-21",
     "date": "2026-01-24",
     "title": "Sahaja Yoga",
@@ -1388,7 +1661,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-22",
     "date": "2026-01-26",
     "title": "Sahaja Yoga",
@@ -1440,7 +1713,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-22",
+    "date": "2026-01-30",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.991Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-22",
     "date": "2026-01-31",
     "title": "Sahaja Yoga",
@@ -1453,7 +1739,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-     {
+  {
     "id": "event_1762345133636_bfv5c92hm-23",
     "date": "2026-02-02",
     "title": "Sahaja Yoga",
@@ -1505,7 +1791,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-23",
+    "date": "2026-02-06",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-23",
     "date": "2026-02-07",
     "title": "Sahaja Yoga",
@@ -1518,7 +1817,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-   {
+  {
     "id": "event_1762345133636_bfv5c92hm-24",
     "date": "2026-02-09",
     "title": "Sahaja Yoga",
@@ -1570,7 +1869,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-24",
+    "date": "2026-02-13",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-24",
     "date": "2026-02-14",
     "title": "Sahaja Yoga",
@@ -1583,7 +1895,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-     {
+  {
     "id": "event_1762345133636_bfv5c92hm-25",
     "date": "2026-02-16",
     "title": "Sahaja Yoga",
@@ -1635,7 +1947,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-25",
+    "date": "2026-02-20",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-25",
     "date": "2026-02-21",
     "title": "Sahaja Yoga",
@@ -1648,7 +1973,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-     {
+  {
     "id": "event_1762345133636_bfv5c92hm-26",
     "date": "2026-02-23",
     "title": "Sahaja Yoga",
@@ -1700,7 +2025,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-26",
+    "date": "2026-02-27",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-26",
     "date": "2026-02-28",
     "title": "Sahaja Yoga",
@@ -1713,7 +2051,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-27",
     "date": "2026-03-02",
     "title": "Sahaja Yoga",
@@ -1765,7 +2103,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-    {
+  {
+    "id": "event_1762347420990_1i8qdsje6-27",
+    "date": "2026-03-06",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-27",
     "date": "2026-03-07",
     "title": "Sahaja Yoga",
@@ -1778,7 +2129,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-28",
     "date": "2026-03-09",
     "title": "Sahaja Yoga",
@@ -1831,6 +2182,19 @@
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
   {
+    "id": "event_1762347420990_1i8qdsje6-28",
+    "date": "2026-03-13",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-28",
     "date": "2026-03-14",
     "title": "Sahaja Yoga",
@@ -1843,7 +2207,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-29",
     "date": "2026-03-16",
     "title": "Sahaja Yoga",
@@ -1895,7 +2259,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-29",
+    "date": "2026-03-20",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-29",
     "date": "2026-03-21",
     "title": "Sahaja Yoga",
@@ -1908,7 +2285,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-30",
     "date": "2026-03-23",
     "title": "Sahaja Yoga",
@@ -1960,7 +2337,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-30",
+    "date": "2026-03-27",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-30",
     "date": "2026-03-28",
     "title": "Sahaja Yoga",
@@ -1973,7 +2363,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-     {
+  {
     "id": "event_1762345133636_bfv5c92hm-31",
     "date": "2026-03-30",
     "title": "Sahaja Yoga",
@@ -2025,7 +2415,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-31",
+    "date": "2026-04-03",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-31",
     "date": "2026-04-04",
     "title": "Sahaja Yoga",
@@ -2038,7 +2441,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-32",
     "date": "2026-04-06",
     "title": "Sahaja Yoga",
@@ -2090,7 +2493,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-32",
+    "date": "2026-04-10",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-32",
     "date": "2026-04-11",
     "title": "Sahaja Yoga",
@@ -2103,7 +2519,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-33",
     "date": "2026-04-13",
     "title": "Sahaja Yoga",
@@ -2155,7 +2571,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-33",
+    "date": "2026-04-17",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.992Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-33",
     "date": "2026-04-18",
     "title": "Sahaja Yoga",
@@ -2168,7 +2597,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-    {
+  {
     "id": "event_1762345133636_bfv5c92hm-34",
     "date": "2026-04-20",
     "title": "Sahaja Yoga",
@@ -2220,7 +2649,20 @@
     "recurring": true,
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
-   {
+  {
+    "id": "event_1762347420990_1i8qdsje6-34",
+    "date": "2026-04-24",
+    "title": "Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Take a break from your busy routine and join our relaxing Free Yoga Classes! These sessions focus on gentle movements, stretching, and breathing exercises to help improve flexibility, balance, and peace of mind. Come along, unwind, and feel refreshed - no experience needed. Just bring a mat and a smile!",
+    "color": "#556b2f",
+    "colorName": "Dark Olive Green",
+    "created": "2025-11-05T12:57:00.993Z",
+    "recurring": true,
+    "originalEventId": "event_1762347420990_1i8qdsje6"
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-34",
     "date": "2026-04-25",
     "title": "Sahaja Yoga",
@@ -2233,7 +2675,7 @@
     "recurring": true,
     "originalEventId": "event_1762345189500_hbp4jol2o"
   },
-   {
+  {
     "id": "event_1762345133636_bfv5c92hm-35",
     "date": "2026-04-27",
     "title": "Sahaja Yoga",

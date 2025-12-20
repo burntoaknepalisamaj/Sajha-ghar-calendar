@@ -2511,6 +2511,18 @@
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
   {
+    "id": "event_1766218912880_gmjnit7k0",
+    "date": "2025-12-31",
+    "title": "Lhosar Celebration ",
+    "startTime": "16:00",
+    "endTime": "22:00",
+    "description": "Celebrating Lhosar Sajha hall",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2025-12-20T08:21:52.880Z",
+    "recurring": false
+  },
+  {
     "id": "event_1762347420990_1i8qdsje6-18",
     "date": "2026-01-02",
     "title": "Yoga",

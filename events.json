@@ -2641,6 +2641,18 @@
     "originalEventId": "event_1762345412484_y8enw1ifx"
   },
   {
+    "id": "event_1767697791264_zfq731rva",
+    "date": "2026-01-08",
+    "title": "Interview(CNCBG)",
+    "startTime": "12:30",
+    "endTime": "17:30",
+    "description": "YouTube interview with CMCBG spokesperson.",
+    "color": "#dc143c",
+    "colorName": "Crimson",
+    "created": "2026-01-06T11:09:51.264Z",
+    "recurring": false
+  },
+  {
     "id": "event_1762347420990_1i8qdsje6-19",
     "date": "2026-01-09",
     "title": "Yoga",

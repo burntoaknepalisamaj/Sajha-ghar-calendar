@@ -4441,6 +4441,18 @@
     "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
+    "id": "event_1775483494135_74cpq15yn",
+    "date": "2026-04-11",
+    "title": "Nepali New year Celebration ",
+    "startTime": "17:00",
+    "endTime": "23:00",
+    "description": "New year 2083 celebration in Sajha hall.",
+    "color": "#960018",
+    "colorName": "Carmine",
+    "created": "2026-04-06T13:51:34.135Z",
+    "recurring": false
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-32",
     "date": "2026-04-12",
     "title": "Nepali Class",

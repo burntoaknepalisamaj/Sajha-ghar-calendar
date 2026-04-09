@@ -5481,6 +5481,18 @@
     "originalEventId": "event_1770301058854_e7dd48z9m"
   },
   {
+    "id": "event_1775709620388_5nzcb97ib",
+    "date": "2026-05-31",
+    "title": "Tamu Kalakar Munch meeting",
+    "startTime": "01:00",
+    "endTime": "18:30",
+    "description": "",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-04-09T04:40:20.388Z",
+    "recurring": false
+  },
+  {
     "id": "event_1770299667583_vossk1nku-5",
     "date": "2026-06-01",
     "title": "Sahaja Yoga",

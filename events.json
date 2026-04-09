@@ -4622,6 +4622,18 @@
     "originalEventId": "event_1762349887440_w34mxb9d7"
   },
   {
+    "id": "event_1775710028292_1fok6q1pi",
+    "date": "2026-04-18",
+    "title": "Dance rehearsal ",
+    "startTime": "14:00",
+    "endTime": "19:00",
+    "description": "",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-04-09T04:47:08.292Z",
+    "recurring": false
+  },
+  {
     "id": "event_1762347667821_3v6zm8lsr-33",
     "date": "2026-04-19",
     "title": "Nepali Class",

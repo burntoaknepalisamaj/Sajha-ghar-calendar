@@ -4570,6 +4570,18 @@
     "originalEventId": "event_1762348450534_8qp835d4j"
   },
   {
+    "id": "event_1775709953117_czmkgclzm",
+    "date": "2026-04-17",
+    "title": "Dance Rehearsal ",
+    "startTime": "17:00",
+    "endTime": "22:00",
+    "description": "Dance rehearsal by Pujan and friends ",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-04-09T04:45:53.117Z",
+    "recurring": false
+  },
+  {
     "id": "event_1762345189500_hbp4jol2o-33",
     "date": "2026-04-18",
     "title": "Sahaja Yoga",

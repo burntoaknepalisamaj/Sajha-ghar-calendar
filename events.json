@@ -5484,13 +5484,14 @@
     "id": "event_1775709620388_5nzcb97ib",
     "date": "2026-05-31",
     "title": "Tamu Kalakar Munch meeting",
-    "startTime": "01:00",
+    "startTime": "13:00",
     "endTime": "18:30",
     "description": "",
     "color": "#e0115f",
     "colorName": "Ruby",
     "created": "2026-04-09T04:40:20.388Z",
-    "recurring": false
+    "recurring": false,
+    "updated": "2026-04-09T04:41:06.688Z"
   },
   {
     "id": "event_1770299667583_vossk1nku-5",

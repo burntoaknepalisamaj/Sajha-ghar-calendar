@@ -5675,6 +5675,18 @@
     "updated": "2026-02-05T14:19:44.946Z"
   },
   {
+    "id": "event_1777647335281_bvr3cdyuo",
+    "date": "2026-06-07",
+    "title": "Food Bank",
+    "startTime": "12:15",
+    "endTime": "14:00",
+    "description": "",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-05-01T14:55:35.281Z",
+    "recurring": false
+  },
+  {
     "id": "event_1770299667583_vossk1nku-6",
     "date": "2026-06-08",
     "title": "Sahaja Yoga",

@@ -7315,14 +7315,15 @@
     "id": "event_1770299886409_c9jl8v5v9-17",
     "date": "2026-08-25",
     "title": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:30",
+    "startTime": "19:00",
+    "endTime": "20:00",
     "description": "Get moving, have fun, and keep fit with our Free Zumba Classes! Join us for an energising workout that combines lively music with easy-to-follow dance moves. No experience needed, just bring your enthusiasm and a smile!",
     "color": "#4682b4",
     "colorName": "Steel Blue",
     "created": "2026-02-05T13:58:06.409Z",
     "recurring": true,
-    "originalEventId": "event_1770299886409_c9jl8v5v9"
+    "originalEventId": "event_1770299886409_c9jl8v5v9",
+    "updated": "2026-06-09T21:03:02.334Z"
   },
   {
     "id": "event_1770300075340_4pnnglr2p-17",

@@ -5819,6 +5819,18 @@
     "originalEventId": "event_1770300848217_imq2p9h4l"
   },
   {
+    "id": "event_1781034238153_x6yk9jkwp",
+    "date": "2026-06-13",
+    "title": "Summer Barbeque",
+    "startTime": "12:30",
+    "endTime": "21:30",
+    "description": "A day for community members to come together and celebrate beautiful summer weather with warmth and sunshine.",
+    "color": "#8b4513",
+    "colorName": "Saddle Brown",
+    "created": "2026-06-09T19:43:58.153Z",
+    "recurring": false
+  },
+  {
     "id": "event_1770301058854_e7dd48z9m-7",
     "date": "2026-06-14",
     "title": "Nepali Class",

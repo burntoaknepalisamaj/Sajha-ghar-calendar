@@ -6838,13 +6838,14 @@
     "id": "event_1777648331577_zos2s824q",
     "date": "2026-08-02",
     "title": "Food Bank",
-    "startTime": "12:15",
+    "startTime": "12:30",
     "endTime": "14:00",
     "description": "",
     "color": "#696969",
     "colorName": "Dim Gray",
     "created": "2026-05-01T15:12:11.577Z",
-    "recurring": false
+    "recurring": false,
+    "updated": "2026-06-09T19:34:29.429Z"
   },
   {
     "id": "event_1770299667583_vossk1nku-14",

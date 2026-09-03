@@ -7443,6 +7443,18 @@
     "originalEventId": "event_1775483644408_ie11pcx4o"
   },
   {
+    "id": "event_1788420169882_z6dj3iacx",
+    "date": "2026-09-19",
+    "title": "Election Committee Meeting",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "No description available",
+    "color": "#5f9ea0",
+    "colorName": "Cadet Blue",
+    "created": "2026-09-03T07:22:49.882Z",
+    "recurring": false
+  },
+  {
     "id": "event_1775483644408_ie11pcx4o-25",
     "date": "2026-09-24",
     "title": "Exclusive English Session ",

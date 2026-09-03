@@ -7421,13 +7421,14 @@
     "date": "2026-09-06",
     "title": "Nepali Class",
     "startTime": "09:30",
-    "endTime": "13:00",
+    "endTime": "12:30",
     "description": "The Nepali Language and Culture Centre's Nepali Class aims to preserver and promote Nepal's linguistic and cultural heritage among younger generations. Children learn to speak, read, and write in Nepali through interactive lessons and engaging activities. The programme also introduces them to Nepalese traditions, festivals, and values, helping to strengthen their cultural identity and sense of belonging.",
     "color": "#191970",
     "colorName": "Midnight Blue",
     "created": "2026-09-03T14:49:38.496Z",
     "recurring": true,
-    "originalEventId": "event_1788446978496_hznb6ulx9"
+    "originalEventId": "event_1788446978496_hznb6ulx9",
+    "updated": "2026-09-03T14:50:20.020Z"
   },
   {
     "id": "event_1775483644408_ie11pcx4o-23",

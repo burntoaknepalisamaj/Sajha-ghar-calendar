@@ -7978,6 +7978,18 @@
     "originalEventId": "event_1789821499003_0d41iq3sg"
   },
   {
+    "id": "event_1789863384306_5cvz085n8",
+    "date": "2026-11-21",
+    "title": "BONC Election Committee meeting",
+    "startTime": "11:30",
+    "endTime": "13:00",
+    "description": "",
+    "color": "#1c39bb",
+    "colorName": "Persian Blue",
+    "created": "2026-09-20T00:16:24.306Z",
+    "recurring": false
+  },
+  {
     "id": "event_1788446978496_hznb6ulx9-12",
     "date": "2026-11-22",
     "title": "Nepali Class",

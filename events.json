@@ -7680,6 +7680,19 @@
     "originalEventId": "event_1791148783810_f7i7i6kxh"
   },
   {
+    "id": "event_1791148833773_9zmm9map6-1",
+    "date": "2026-10-10",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.774Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
+  },
+  {
     "id": "event_1788446978496_hznb6ulx9-6",
     "date": "2026-10-11",
     "title": "Nepali Class",
@@ -7758,6 +7771,19 @@
     "originalEventId": "event_1791148783810_f7i7i6kxh"
   },
   {
+    "id": "event_1791148833773_9zmm9map6-2",
+    "date": "2026-10-17",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.775Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
+  },
+  {
     "id": "event_1789821598129_rd49bei5d-5",
     "date": "2026-10-19",
     "title": "Sahaja Yoga",
@@ -7821,6 +7847,19 @@
     "created": "2026-10-04T21:19:43.810Z",
     "recurring": true,
     "originalEventId": "event_1791148783810_f7i7i6kxh"
+  },
+  {
+    "id": "event_1791148833773_9zmm9map6-3",
+    "date": "2026-10-24",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.775Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
   },
   {
     "id": "event_1788446978496_hznb6ulx9-8",
@@ -7911,6 +7950,19 @@
     "created": "2026-10-04T21:19:43.810Z",
     "recurring": true,
     "originalEventId": "event_1791148783810_f7i7i6kxh"
+  },
+  {
+    "id": "event_1791148833773_9zmm9map6-4",
+    "date": "2026-10-31",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.776Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
   },
   {
     "id": "event_1788446978496_hznb6ulx9-9",
@@ -8004,6 +8056,19 @@
     "originalEventId": "event_1791148783810_f7i7i6kxh"
   },
   {
+    "id": "event_1791148833773_9zmm9map6-5",
+    "date": "2026-11-07",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.776Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
+  },
+  {
     "id": "event_1788446978496_hznb6ulx9-10",
     "date": "2026-11-08",
     "title": "Nepali Class",
@@ -8080,6 +8145,19 @@
     "created": "2026-10-04T21:19:43.812Z",
     "recurring": true,
     "originalEventId": "event_1791148783810_f7i7i6kxh"
+  },
+  {
+    "id": "event_1791148833773_9zmm9map6-6",
+    "date": "2026-11-14",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.776Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
   },
   {
     "id": "event_1788446978496_hznb6ulx9-11",
@@ -8172,6 +8250,19 @@
     "originalEventId": "event_1791148783810_f7i7i6kxh"
   },
   {
+    "id": "event_1791148833773_9zmm9map6-7",
+    "date": "2026-11-21",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.777Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
+  },
+  {
     "id": "event_1788446978496_hznb6ulx9-12",
     "date": "2026-11-22",
     "title": "Nepali Class",
@@ -8248,6 +8339,19 @@
     "created": "2026-10-04T21:19:43.813Z",
     "recurring": true,
     "originalEventId": "event_1791148783810_f7i7i6kxh"
+  },
+  {
+    "id": "event_1791148833773_9zmm9map6-8",
+    "date": "2026-11-28",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.777Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
   },
   {
     "id": "event_1788446978496_hznb6ulx9-13",
@@ -8340,6 +8444,19 @@
     "originalEventId": "event_1791148783810_f7i7i6kxh"
   },
   {
+    "id": "event_1791148833773_9zmm9map6-9",
+    "date": "2026-12-05",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.777Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
+  },
+  {
     "id": "event_1788446978496_hznb6ulx9-14",
     "date": "2026-12-06",
     "title": "Nepali Class",
@@ -8417,6 +8534,19 @@
     "created": "2026-10-04T21:19:43.813Z",
     "recurring": true,
     "originalEventId": "event_1791148783810_f7i7i6kxh"
+  },
+  {
+    "id": "event_1791148833773_9zmm9map6-10",
+    "date": "2026-12-12",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.778Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
   },
   {
     "id": "event_1788446978496_hznb6ulx9-15",
@@ -8497,6 +8627,19 @@
     "originalEventId": "event_1791148783810_f7i7i6kxh"
   },
   {
+    "id": "event_1791148833773_9zmm9map6-11",
+    "date": "2026-12-19",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.778Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
+  },
+  {
     "id": "event_1788446978496_hznb6ulx9-16",
     "date": "2026-12-20",
     "title": "Nepali Class",
@@ -8560,6 +8703,19 @@
     "created": "2026-10-04T21:19:43.814Z",
     "recurring": true,
     "originalEventId": "event_1791148783810_f7i7i6kxh"
+  },
+  {
+    "id": "event_1791148833773_9zmm9map6-12",
+    "date": "2026-12-26",
+    "title": "Dance Class",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-04T21:20:33.779Z",
+    "recurring": true,
+    "originalEventId": "event_1791148833773_9zmm9map6"
   },
   {
     "id": "event_1789821598129_rd49bei5d-15",

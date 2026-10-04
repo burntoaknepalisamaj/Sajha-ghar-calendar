@@ -7629,6 +7629,18 @@
     "updated": "2026-10-04T21:30:20.695Z"
   },
   {
+    "id": "event_1791150439028_hdctjt6jk",
+    "date": "2026-10-04",
+    "title": "English Session",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "description": "The Free English Sessions for Senior Citizens aim to support elderly members of our community who face difficulties with the English language. These sessions provide a comfortable and understanding environment where participants can learn useful communication skills, improve confidence, and engage more easily in daily life. The focus is on practical English for real situations, with patient guidance and a friendly atmosphere.\n",
+    "color": "#228b22",
+    "colorName": "Forest Green",
+    "created": "2026-10-04T21:47:19.028Z",
+    "recurring": false
+  },
+  {
     "id": "event_1789821598129_rd49bei5d-3",
     "date": "2026-10-05",
     "title": "Sahaja Yoga",

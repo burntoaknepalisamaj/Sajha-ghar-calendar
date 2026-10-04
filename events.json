@@ -7732,6 +7732,19 @@
     "originalEventId": "event_1791148895065_upr3xlyvm"
   },
   {
+    "id": "event_1791149015929_imqlthkws-1",
+    "date": "2026-10-11",
+    "title": "Food Bank",
+    "startTime": "12:30",
+    "endTime": "14:00",
+    "description": "",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2026-10-04T21:23:35.929Z",
+    "recurring": true,
+    "originalEventId": "event_1791149015929_imqlthkws"
+  },
+  {
     "id": "event_1789821598129_rd49bei5d-4",
     "date": "2026-10-12",
     "title": "Sahaja Yoga",
@@ -7821,6 +7834,19 @@
     "created": "2026-10-04T21:21:35.065Z",
     "recurring": true,
     "originalEventId": "event_1791148895065_upr3xlyvm"
+  },
+  {
+    "id": "event_1791149015929_imqlthkws-2",
+    "date": "2026-10-18",
+    "title": "Food Bank",
+    "startTime": "12:30",
+    "endTime": "14:00",
+    "description": "",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2026-10-04T21:23:35.929Z",
+    "recurring": true,
+    "originalEventId": "event_1791149015929_imqlthkws"
   },
   {
     "id": "event_1789821598129_rd49bei5d-5",
@@ -7925,6 +7951,19 @@
     "created": "2026-10-04T21:21:35.066Z",
     "recurring": true,
     "originalEventId": "event_1791148895065_upr3xlyvm"
+  },
+  {
+    "id": "event_1791149015929_imqlthkws-3",
+    "date": "2026-10-25",
+    "title": "Food Bank",
+    "startTime": "12:30",
+    "endTime": "14:00",
+    "description": "",
+    "color": "#696969",
+    "colorName": "Dim Gray",
+    "created": "2026-10-04T21:23:35.929Z",
+    "recurring": true,
+    "originalEventId": "event_1791149015929_imqlthkws"
   },
   {
     "id": "event_1789821598129_rd49bei5d-6",

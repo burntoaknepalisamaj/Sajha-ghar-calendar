@@ -7660,12 +7660,13 @@
     "title": "Senior's Soup and Social",
     "startTime": "10:00",
     "endTime": "14:00",
-    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "description": "Senior's Soup and Social \n\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
     "color": "#e0115f",
     "colorName": "Ruby",
     "created": "2026-10-05T09:04:53.552Z",
     "recurring": true,
-    "originalEventId": "event_1791191093552_gw2b1aaov"
+    "originalEventId": "event_1791191093552_gw2b1aaov",
+    "updated": "2026-10-05T09:05:56.512Z"
   },
   {
     "id": "event_1791150620129_5y0bvzoou-1",

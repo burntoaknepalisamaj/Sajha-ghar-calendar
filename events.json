@@ -7811,19 +7811,6 @@
     "originalEventId": "event_1791150561990_w59tonyeb"
   },
   {
-    "id": "event_1775483644408_ie11pcx4o-28",
-    "date": "2026-10-15",
-    "title": "Exclusive English Session ",
-    "startTime": "11:00",
-    "endTime": "12:00",
-    "description": "And exclusive English session for senior citizen.",
-    "color": "#e0115f",
-    "colorName": "Ruby",
-    "created": "2026-04-06T13:54:04.408Z",
-    "recurring": true,
-    "originalEventId": "event_1775483644408_ie11pcx4o"
-  },
-  {
     "id": "event_1791150725995_p790krgw2-2",
     "date": "2026-10-15",
     "title": "Exclusive English Session",

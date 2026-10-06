@@ -7877,19 +7877,6 @@
     "originalEventId": "event_1789821598129_rd49bei5d"
   },
   {
-    "id": "event_1791149090187_jmsuqnfjg-3",
-    "date": "2026-10-19",
-    "title": "Sahaja Yoga",
-    "startTime": "19:00",
-    "endTime": "21:00",
-    "description": "",
-    "color": "#0047ab",
-    "colorName": "Cobalt",
-    "created": "2026-10-04T21:24:50.188Z",
-    "recurring": true,
-    "originalEventId": "event_1791149090187_jmsuqnfjg"
-  },
-  {
     "id": "event_1791149334130_zs3mqksdy-3",
     "date": "2026-10-20",
     "title": "Zumba",

@@ -8796,6 +8796,18 @@
     "updated": "2026-09-03T14:51:27.739Z"
   },
   {
+    "id": "event_1791406911173_famp5nzm8",
+    "date": "2026-12-06",
+    "title": "Food bank",
+    "startTime": "12:30",
+    "endTime": "14:00",
+    "description": "",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
+    "created": "2026-10-07T21:01:51.173Z",
+    "recurring": false
+  },
+  {
     "id": "event_1789821598129_rd49bei5d-12",
     "date": "2026-12-07",
     "title": "Sahaja Yoga",

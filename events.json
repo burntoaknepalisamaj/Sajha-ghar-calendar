@@ -9120,6 +9120,18 @@
     "originalEventId": "event_1791191093552_gw2b1aaov"
   },
   {
+    "id": "event_1791407566623_9glv7t405",
+    "date": "2026-12-25",
+    "title": "Merry Christmas ",
+    "startTime": "10:00",
+    "endTime": "22:00",
+    "description": "Festival of togetherness ",
+    "color": "#006400",
+    "colorName": "Dark Green",
+    "created": "2026-10-07T21:12:46.623Z",
+    "recurring": false
+  },
+  {
     "id": "event_1789821499003_0d41iq3sg-15",
     "date": "2026-12-26",
     "title": "Sahaja Yoga",

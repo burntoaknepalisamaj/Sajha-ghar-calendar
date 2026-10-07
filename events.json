@@ -7980,19 +7980,6 @@
     "originalEventId": "event_1788446978496_hznb6ulx9"
   },
   {
-    "id": "event_1791149015929_imqlthkws-3",
-    "date": "2026-10-25",
-    "title": "Food Bank",
-    "startTime": "12:30",
-    "endTime": "14:00",
-    "description": "",
-    "color": "#696969",
-    "colorName": "Dim Gray",
-    "created": "2026-10-04T21:23:35.929Z",
-    "recurring": true,
-    "originalEventId": "event_1791149015929_imqlthkws"
-  },
-  {
     "id": "event_1789821598129_rd49bei5d-6",
     "date": "2026-10-26",
     "title": "Sahaja Yoga",

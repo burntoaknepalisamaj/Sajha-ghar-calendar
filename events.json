@@ -8756,19 +8756,6 @@
     "recurring": false
   },
   {
-    "id": "event_1791148731095_0xqzyglnk-9",
-    "date": "2026-12-05",
-    "title": "Sahaja Yoga",
-    "startTime": "10:00",
-    "endTime": "11:30",
-    "description": "",
-    "color": "#0047ab",
-    "colorName": "Cobalt",
-    "created": "2026-10-04T21:18:51.096Z",
-    "recurring": true,
-    "originalEventId": "event_1791148731095_0xqzyglnk"
-  },
-  {
     "id": "event_1791148783810_f7i7i6kxh-9",
     "date": "2026-12-05",
     "title": "Music",

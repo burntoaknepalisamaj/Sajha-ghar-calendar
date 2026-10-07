@@ -8110,19 +8110,6 @@
     "updated": "2026-09-03T14:51:09.164Z"
   },
   {
-    "id": "event_1791148895065_upr3xlyvm-5",
-    "date": "2026-11-01",
-    "title": "Nepali Class",
-    "startTime": "09:30",
-    "endTime": "12:30",
-    "description": "",
-    "color": "#191970",
-    "colorName": "Midnight Blue",
-    "created": "2026-10-04T21:21:35.066Z",
-    "recurring": true,
-    "originalEventId": "event_1791148895065_upr3xlyvm"
-  },
-  {
     "id": "event_1789821598129_rd49bei5d-7",
     "date": "2026-11-02",
     "title": "Sahaja Yoga",

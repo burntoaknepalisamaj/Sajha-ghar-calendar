@@ -7852,6 +7852,18 @@
     "originalEventId": "event_1791148895065_upr3xlyvm"
   },
   {
+    "id": "event_1791405240789_hw2qhp6a1",
+    "date": "2026-10-18",
+    "title": "Dance rehearsal ",
+    "startTime": "14:00",
+    "endTime": "18:00",
+    "description": "",
+    "color": "#006400",
+    "colorName": "Dark Green",
+    "created": "2026-10-07T20:34:00.789Z",
+    "recurring": false
+  },
+  {
     "id": "event_1789821598129_rd49bei5d-5",
     "date": "2026-10-19",
     "title": "Sahaja Yoga",

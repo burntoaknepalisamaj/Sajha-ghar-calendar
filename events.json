@@ -7800,6 +7800,18 @@
     "updated": "2026-10-07T18:10:26.927Z"
   },
   {
+    "id": "event_1791405416310_omdpreoo1",
+    "date": "2026-10-15",
+    "title": "Burnt Oak Ward Residents' Ward Panel Meeting ",
+    "startTime": "18:30",
+    "endTime": "21:00",
+    "description": "",
+    "color": "#006400",
+    "colorName": "Dark Green",
+    "created": "2026-10-07T20:36:56.310Z",
+    "recurring": false
+  },
+  {
     "id": "event_1791150620129_5y0bvzoou-2",
     "date": "2026-10-16",
     "title": "Art Therapy",

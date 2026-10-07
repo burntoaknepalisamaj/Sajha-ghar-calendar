@@ -7967,19 +7967,6 @@
     "originalEventId": "event_1789821499003_0d41iq3sg"
   },
   {
-    "id": "event_1791148783810_f7i7i6kxh-3",
-    "date": "2026-10-24",
-    "title": "Music",
-    "startTime": "13:00",
-    "endTime": "16:00",
-    "description": "",
-    "color": "#ff8c00",
-    "colorName": "Dark Orange",
-    "created": "2026-10-04T21:19:43.810Z",
-    "recurring": true,
-    "originalEventId": "event_1791148783810_f7i7i6kxh"
-  },
-  {
     "id": "event_1791148833773_9zmm9map6-3",
     "date": "2026-10-24",
     "title": "Dance Class",

@@ -8855,13 +8855,14 @@
     "date": "2026-12-19",
     "title": "Music",
     "startTime": "13:00",
-    "endTime": "16:00",
+    "endTime": "20:00",
     "description": "",
     "color": "#ff8c00",
     "colorName": "Dark Orange",
     "created": "2026-10-04T21:19:43.813Z",
     "recurring": true,
-    "originalEventId": "event_1791148783810_f7i7i6kxh"
+    "originalEventId": "event_1791148783810_f7i7i6kxh",
+    "updated": "2026-11-23T23:52:27.452Z"
   },
   {
     "id": "event_1788446978496_hznb6ulx9-16",

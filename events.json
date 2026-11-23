@@ -9094,20 +9094,6 @@
     "originalEventId": "event_1789821598129_rd49bei5d"
   },
   {
-    "id": "event_1791149334130_zs3mqksdy-13",
-    "date": "2026-12-29",
-    "title": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "description": "",
-    "color": "#4682b4",
-    "colorName": "Steel Blue",
-    "created": "2026-10-04T21:28:54.136Z",
-    "recurring": true,
-    "originalEventId": "event_1791149334130_zs3mqksdy",
-    "updated": "2026-11-23T23:37:21.567Z"
-  },
-  {
     "id": "event_1791150561990_w59tonyeb-12",
     "date": "2026-12-30",
     "title": "English Session",

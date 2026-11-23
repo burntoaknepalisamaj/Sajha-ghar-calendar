@@ -8991,6 +8991,18 @@
     "originalEventId": "event_1789821598129_rd49bei5d"
   },
   {
+    "id": "event_1795477170399_r6dqv0gqx",
+    "date": "2026-12-22",
+    "title": "Kids Program",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "description": "",
+    "color": "#960018",
+    "colorName": "Carmine",
+    "created": "2026-11-23T23:39:30.399Z",
+    "recurring": false
+  },
+  {
     "id": "event_1791150561990_w59tonyeb-11",
     "date": "2026-12-23",
     "title": "English Session",

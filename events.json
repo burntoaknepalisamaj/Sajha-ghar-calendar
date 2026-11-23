@@ -8562,6 +8562,19 @@
     "originalEventId": "event_1791149334130_zs3mqksdy"
   },
   {
+    "id": "event_1795476612009_rdz27bgic-1",
+    "date": "2026-11-25",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
     "id": "event_1791191093552_gw2b1aaov-8",
     "date": "2026-11-26",
     "title": "Senior's Soup and Social",
@@ -8678,6 +8691,19 @@
     "created": "2026-10-04T21:49:21.993Z",
     "recurring": true,
     "originalEventId": "event_1791150561990_w59tonyeb"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-2",
+    "date": "2026-12-02",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
   },
   {
     "id": "event_1791150725995_p790krgw2-9",
@@ -8835,6 +8861,19 @@
     "originalEventId": "event_1791150561990_w59tonyeb"
   },
   {
+    "id": "event_1795476612009_rdz27bgic-3",
+    "date": "2026-12-09",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
     "id": "event_1775483644408_ie11pcx4o-36",
     "date": "2026-12-10",
     "title": "Exclusive English Session ",
@@ -8963,6 +9002,19 @@
     "created": "2026-10-04T21:49:21.993Z",
     "recurring": true,
     "originalEventId": "event_1791150561990_w59tonyeb"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-4",
+    "date": "2026-12-16",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
   },
   {
     "id": "event_1791150725995_p790krgw2-11",
@@ -9095,6 +9147,19 @@
     "originalEventId": "event_1791150561990_w59tonyeb"
   },
   {
+    "id": "event_1795476612009_rdz27bgic-5",
+    "date": "2026-12-23",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
     "id": "event_1791191093552_gw2b1aaov-12",
     "date": "2026-12-24",
     "title": "Senior's Soup and Social",
@@ -9211,6 +9276,19 @@
     "originalEventId": "event_1791150561990_w59tonyeb"
   },
   {
+    "id": "event_1795476612009_rdz27bgic-6",
+    "date": "2026-12-30",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
     "id": "event_1791150725995_p790krgw2-13",
     "date": "2026-12-31",
     "title": "Exclusive English Session",
@@ -9235,5 +9313,161 @@
     "created": "2026-10-05T09:04:53.552Z",
     "recurring": true,
     "originalEventId": "event_1791191093552_gw2b1aaov"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-7",
+    "date": "2027-01-06",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-8",
+    "date": "2027-01-13",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-9",
+    "date": "2027-01-20",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-10",
+    "date": "2027-01-27",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-11",
+    "date": "2027-02-03",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-12",
+    "date": "2027-02-10",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-13",
+    "date": "2027-02-17",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-14",
+    "date": "2027-02-24",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-15",
+    "date": "2027-03-03",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-16",
+    "date": "2027-03-10",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-17",
+    "date": "2027-03-17",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
+  },
+  {
+    "id": "event_1795476612009_rdz27bgic-18",
+    "date": "2027-03-24",
+    "title": "Senior's Soup and Social.",
+    "startTime": "10:00",
+    "endTime": "15:00",
+    "description": "Senior's Soup and Social \nl11:30 AM - 3:00 PM\nFeeling a bit lonely or isolated? Come and join our friendly get-together designed to bring people together for a chat, laughter, and companionship. Enjoy good company, light activities, and a delicious free lunch in a warm and welcoming atmosphere.",
+    "color": "#e0115f",
+    "colorName": "Ruby",
+    "created": "2026-11-23T23:30:12.009Z",
+    "recurring": true,
+    "originalEventId": "event_1795476612009_rdz27bgic"
   }
 ]

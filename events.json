@@ -8967,19 +8967,6 @@
     "originalEventId": "event_1791148783810_f7i7i6kxh"
   },
   {
-    "id": "event_1791148833773_9zmm9map6-12",
-    "date": "2026-12-26",
-    "title": "Dance Class",
-    "startTime": "16:00",
-    "endTime": "17:00",
-    "description": "",
-    "color": "#9400d3",
-    "colorName": "Dark Violet",
-    "created": "2026-10-04T21:20:33.779Z",
-    "recurring": true,
-    "originalEventId": "event_1791148833773_9zmm9map6"
-  },
-  {
     "id": "event_1791148895065_upr3xlyvm-13",
     "date": "2026-12-27",
     "title": "Nepali Class",

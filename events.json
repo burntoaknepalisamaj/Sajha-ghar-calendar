@@ -8684,14 +8684,14 @@
     "date": "2026-12-05",
     "title": "Music",
     "startTime": "13:00",
-    "endTime": "22:00",
+    "endTime": "20:00",
     "description": "",
     "color": "#ff8c00",
     "colorName": "Dark Orange",
     "created": "2026-10-04T21:19:43.813Z",
     "recurring": true,
     "originalEventId": "event_1791148783810_f7i7i6kxh",
-    "updated": "2026-11-23T23:47:25.254Z"
+    "updated": "2026-11-23T23:47:52.439Z"
   },
   {
     "id": "event_1791148833773_9zmm9map6-9",

@@ -8783,19 +8783,6 @@
     "originalEventId": "event_1789821598129_rd49bei5d"
   },
   {
-    "id": "event_1791149334130_zs3mqksdy-10",
-    "date": "2026-12-08",
-    "title": "Zumba",
-    "startTime": "19:00",
-    "endTime": "20:00",
-    "description": "",
-    "color": "#4682b4",
-    "colorName": "Steel Blue",
-    "created": "2026-10-04T21:28:54.135Z",
-    "recurring": true,
-    "originalEventId": "event_1791149334130_zs3mqksdy"
-  },
-  {
     "id": "event_1791150561990_w59tonyeb-9",
     "date": "2026-12-09",
     "title": "English Session",

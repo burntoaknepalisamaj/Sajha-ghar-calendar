@@ -8673,10 +8673,11 @@
     "startTime": "11:30",
     "endTime": "13:00",
     "description": "",
-    "color": "#1c39bb",
-    "colorName": "Persian Blue",
+    "color": "#dc143c",
+    "colorName": "Crimson",
     "created": "2026-09-20T00:17:15.139Z",
-    "recurring": false
+    "recurring": false,
+    "updated": "2026-11-24T00:31:21.299Z"
   },
   {
     "id": "event_1795478372943_jumydspe9-2",

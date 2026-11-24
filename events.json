@@ -9535,6 +9535,18 @@
     "originalEventId": "event_1795479605129_ijo4095qg"
   },
   {
+    "id": "event_1795481107379_c9gijzpuo",
+    "date": "2027-03-07",
+    "title": "Food Bank",
+    "startTime": "12:30",
+    "endTime": "14:00",
+    "description": "",
+    "color": "#dc143c",
+    "colorName": "Crimson",
+    "created": "2026-11-24T00:45:07.379Z",
+    "recurring": false
+  },
+  {
     "id": "event_1795479772745_iph8qtjrp-10",
     "date": "2027-03-08",
     "title": "Sahaja Yoga",

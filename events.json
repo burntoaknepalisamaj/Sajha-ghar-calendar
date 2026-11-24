@@ -8852,7 +8852,7 @@
   },
   {
     "id": "event_1795477170399_r6dqv0gqx",
-    "date": "2026-12-22",
+    "date": "2026-12-12",
     "title": "Kids Program",
     "startTime": "18:00",
     "endTime": "22:00",
@@ -8860,7 +8860,8 @@
     "color": "#960018",
     "colorName": "Carmine",
     "created": "2026-11-23T23:39:30.399Z",
-    "recurring": false
+    "recurring": false,
+    "updated": "2026-11-24T06:54:05.138Z"
   },
   {
     "id": "event_1795476612009_rdz27bgic-5",

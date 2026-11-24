@@ -9479,10 +9479,11 @@
     "startTime": "12:30",
     "endTime": "14:00",
     "description": "",
-    "color": "#dc143c",
-    "colorName": "Crimson",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
     "created": "2026-11-24T00:45:07.379Z",
-    "recurring": false
+    "recurring": false,
+    "updated": "2026-11-24T00:52:38.421Z"
   },
   {
     "id": "event_1795479772745_iph8qtjrp-10",

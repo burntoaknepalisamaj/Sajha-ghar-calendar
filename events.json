@@ -8576,19 +8576,6 @@
     "updated": "2026-11-23T23:23:24.958Z"
   },
   {
-    "id": "event_1789821499003_0d41iq3sg-11",
-    "date": "2026-11-28",
-    "title": "Sahaja Yoga",
-    "startTime": "10:00",
-    "endTime": "12:00",
-    "description": "Sahaja Yoga is a unique method of meditation based on the experience of Self-realisation through Kundalini Awakening. It establishes a deep state of inner silence and joy, where one experiences the deepest self, free from unhelpful thoughts, anxieties and worries. It is free and everyone is welcome to join.",
-    "color": "#4169e1",
-    "colorName": "Royal Blue",
-    "created": "2026-09-19T12:38:19.004Z",
-    "recurring": true,
-    "originalEventId": "event_1789821499003_0d41iq3sg"
-  },
-  {
     "id": "event_1795479377180_56k2oiknm-1",
     "date": "2026-11-28",
     "title": "Music Lessons",

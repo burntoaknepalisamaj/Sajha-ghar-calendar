@@ -8116,10 +8116,11 @@
     "startTime": "12:30",
     "endTime": "14:00",
     "description": "",
-    "color": "#006400",
-    "colorName": "Dark Green",
+    "color": "#9400d3",
+    "colorName": "Dark Violet",
     "created": "2026-10-07T20:46:48.963Z",
-    "recurring": false
+    "recurring": false,
+    "updated": "2026-11-24T00:51:33.973Z"
   },
   {
     "id": "event_1789821598129_rd49bei5d-7",

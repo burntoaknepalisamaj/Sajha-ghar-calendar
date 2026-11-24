@@ -8577,6 +8577,18 @@
     "updated": "2026-11-23T23:23:24.958Z"
   },
   {
+    "id": "event_1795543291757_l5z6s0ubr",
+    "date": "2026-11-26",
+    "title": "BONC Election Committee Meeting ",
+    "startTime": "20:15",
+    "endTime": "22:00",
+    "description": "",
+    "color": "#dc143c",
+    "colorName": "Crimson",
+    "created": "2026-11-24T18:01:31.757Z",
+    "recurring": false
+  },
+  {
     "id": "event_1795479377180_56k2oiknm-1",
     "date": "2026-11-28",
     "title": "Music Lessons",
@@ -8760,6 +8772,19 @@
     "originalEventId": "event_1795478372943_jumydspe9"
   },
   {
+    "id": "event_1795477170399_r6dqv0gqx",
+    "date": "2026-12-12",
+    "title": "Kids Program",
+    "startTime": "18:00",
+    "endTime": "22:00",
+    "description": "",
+    "color": "#960018",
+    "colorName": "Carmine",
+    "created": "2026-11-23T23:39:30.399Z",
+    "recurring": false,
+    "updated": "2026-11-24T06:54:05.138Z"
+  },
+  {
     "id": "event_1788446978496_hznb6ulx9-15",
     "date": "2026-12-13",
     "title": "Nepali Class",
@@ -8849,19 +8874,6 @@
     "created": "2026-09-19T12:39:58.129Z",
     "recurring": true,
     "originalEventId": "event_1789821598129_rd49bei5d"
-  },
-  {
-    "id": "event_1795477170399_r6dqv0gqx",
-    "date": "2026-12-12",
-    "title": "Kids Program",
-    "startTime": "18:00",
-    "endTime": "22:00",
-    "description": "",
-    "color": "#960018",
-    "colorName": "Carmine",
-    "created": "2026-11-23T23:39:30.399Z",
-    "recurring": false,
-    "updated": "2026-11-24T06:54:05.138Z"
   },
   {
     "id": "event_1795476612009_rdz27bgic-5",

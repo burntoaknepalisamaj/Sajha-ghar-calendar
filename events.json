@@ -8601,6 +8601,18 @@
     "originalEventId": "event_1795479605129_ijo4095qg"
   },
   {
+    "id": "event_1795730409910_8mdm127l6",
+    "date": "2026-11-28",
+    "title": "Health and Wellbeing",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "description": "Health & Wellbeing Hub\nSaturday, January 10, 2026 • 11:30 AM - 1:00 PM\nTake care of your health and learn valuable skills with our Free Health Sessions held at the community hall. Every 2nd Saturday: Basic Life Support (BLS) Training - Learn essential life-saving skills and how to respond in an emergency. Every 4th Saturday: Health Awareness Programme - Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing. Everyone is welcome - come along, learn, and look after your health in a friendly community setting!",
+    "color": "#007ba7",
+    "colorName": "Cerulean",
+    "created": "2026-11-26T22:00:09.910Z",
+    "recurring": false
+  },
+  {
     "id": "event_1788446978496_hznb6ulx9-13",
     "date": "2026-11-29",
     "title": "Nepali Class",

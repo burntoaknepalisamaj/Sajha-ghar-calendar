@@ -8606,7 +8606,7 @@
     "title": "Health and Wellbeing",
     "startTime": "11:30",
     "endTime": "12:30",
-    "description": "Health & Wellbeing Hub\nSaturday, January 10, 2026 Ã¢ÂÂ¢ 11:30 AM - 1:00 PM\nTake care of your health and learn valuable skills with our Free Health Sessions held at the community hall. Every 2nd Saturday: Basic Life Support (BLS) Training - Learn essential life-saving skills and how to respond in an emergency. Every 4th Saturday: Health Awareness Programme - Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing. Everyone is welcome - come along, learn, and look after your health in a friendly community setting!",
+    "description": "Health & Wellbeing Hub\nSaturday, January 10, 2026 ÃÂ¢ÃÂÃÂ¢ 11:30 AM - 1:00 PM\nTake care of your health and learn valuable skills with our Free Health Sessions held at the community hall. Every 2nd Saturday: Basic Life Support (BLS) Training - Learn essential life-saving skills and how to respond in an emergency. Every 4th Saturday: Health Awareness Programme - Receive free Blood Pressure and Blood Sugar checks, along with practical advice on healthy living and wellbeing. Everyone is welcome - come along, learn, and look after your health in a friendly community setting!",
     "color": "#007ba7",
     "colorName": "Cerulean",
     "created": "2026-11-26T22:00:09.910Z",
@@ -8923,6 +8923,18 @@
     "created": "2026-11-24T00:16:17.180Z",
     "recurring": true,
     "originalEventId": "event_1795479377180_56k2oiknm"
+  },
+  {
+    "id": "event_1795871434808_y4h6selsj",
+    "date": "2026-12-26",
+    "title": "Health Mot",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "description": "",
+    "color": "#007ba7",
+    "colorName": "Cerulean",
+    "created": "2026-11-28T13:10:34.808Z",
+    "recurring": false
   },
   {
     "id": "event_1791148895065_upr3xlyvm-13",
